@@ -1,11 +1,35 @@
 [
   {
+    "date": " 16 October 2015",
+    "authors": [
+      "Kai Yang",
+      "Rencheng Zhang",
+      "Shouhong Chen",
+      "Fujiang Zhang",
+      "Jianhong Yang",
+      "Xingbin Zhang"
+    ],
+    "url": "http://www.mdpi.com/1999-4893/8/4/929",
+    "doi": "10.3390/a8040929",
+    "title": "Series Arc Fault Detection Algorithm Based on Autoregressive Bispectrum Analysis"
+  },
+  {
+    "date": " 16 October 2015",
+    "authors": [
+      "Ahmed M. Khedr"
+    ],
+    "url": "http://www.mdpi.com/1999-4893/8/4/910",
+    "doi": "10.3390/a8040910",
+    "title": "Effective Data Acquisition Protocol for Multi-Hop Heterogeneous Wireless Sensor Networks Using Compressive Sensing"
+  },
+  {
     "date": " 9 October 2015",
     "authors": [
       "Diyashvir Kreetee Rajiv Babajee",
       "Kalyanasundaram Madhu",
       "Jayakumar Jayaraman"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/4/895",
     "doi": "10.3390/a8040895",
     "title": "On Some Improved Harmonic Mean Newton-Like Methods for Solving Systems of Nonlinear Equations"
   },
@@ -18,6 +42,7 @@
       "Feng Zhou",
       "Guangjie Han"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/4/870",
     "doi": "10.3390/a8040870",
     "title": "Code Synchronization Algorithm Based on Segment Correlation in Spread Spectrum Communication"
   },
@@ -30,6 +55,7 @@
       "Mathilde Le Boudic-Jamin",
       "Inken Wohlers"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/4/850",
     "doi": "10.3390/a8040850",
     "title": "Automatic Classification of Protein Structure Using the Maximum Contact Map Overlap Metric"
   },
@@ -39,6 +65,7 @@
       "George A. Anastassiou",
       "Ioannis K. Argyros"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/4/832",
     "doi": "10.3390/a8040832",
     "title": "Newton-Type Methods on Generalized Banach Spaces and Applications in Fractional Calculus"
   },
@@ -50,6 +77,7 @@
       "Hafedh Mohamed-Babou",
       "Irena Rusu"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/4/810",
     "doi": "10.3390/a8040810",
     "title": "Finding Supported Paths in Heterogeneous Networks"
   },
@@ -59,6 +87,7 @@
       "Tingping Zhang",
       "Guan Gui"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/4/799",
     "doi": "10.3390/a8040799",
     "title": "Reweighted Factor Selection for SLMS-RL1\u00a0Algorithm under Gaussian Mixture Noise Environments"
   },
@@ -71,6 +100,7 @@
       "Sheng Zhang",
       "Xiaodong Fan"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/786",
     "doi": "10.3390/a8030786",
     "title": "A Family of Newton Type Iterative Methods for Solving Nonlinear Equations"
   },
@@ -81,6 +111,7 @@
       "Stefan Maruster",
       "Liviu Octavian Mafteiu-Scai"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/774",
     "doi": "10.3390/a8030774",
     "title": "Parallel Variants of Broyden\u2019s Method"
   },
@@ -92,6 +123,7 @@
       "Antonio Miranda",
       "Guillermo Fern\u00e1ndez-Anaya"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/754",
     "doi": "10.3390/a8030754",
     "title": "Modified Classical Graph Algorithms for the DNA Fragment Assembly Problem"
   },
@@ -101,6 +133,7 @@
       "Yanjun Liu",
       "Taiyang Tao"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/743",
     "doi": "10.3390/a8030743",
     "title": "A CS Recovery Algorithm for Model and Time Delay Identification of MISO-FIR Systems"
   },
@@ -111,6 +144,7 @@
       "Ioannis X. Tassopoulos",
       "Grigorios N. Beligiannis"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/723",
     "doi": "10.3390/a8030723",
     "title": "A Comparative Study of Modern Heuristics on the School Timetabling Problem"
   },
@@ -122,6 +156,7 @@
       "Huigang Xu",
       "Peiyi Zhu"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/712",
     "doi": "10.3390/a8030712",
     "title": "Gradient-Based Iterative Identification for Wiener Nonlinear Dynamic Systems with Moving Average Noises"
   },
@@ -131,6 +166,7 @@
       "Puren Ouyang",
       "Vangjel Pano"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/697",
     "doi": "10.3390/a8030697",
     "title": "Comparative Study of DE, PSO and GA for Position Domain PID Controller Tuning"
   },
@@ -140,6 +176,7 @@
       "Suman Saha",
       "Satya P. Ghrera"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/680",
     "doi": "10.3390/a8030680",
     "title": "Network Community Detection on Metric Space"
   },
@@ -151,6 +188,7 @@
       "Concepci\u00f3n Berm\u00fadez",
       "\u00c1ngel Alberto Magre\u00f1\u00e1n"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/669",
     "doi": "10.3390/a8030669",
     "title": "Expanding the Applicability of a Third Order Newton-Type Method Free of Bilinear Operators"
   },
@@ -164,6 +202,7 @@
       "Lin Wang",
       "Feng Pan"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/656",
     "doi": "10.3390/a8030656",
     "title": "Fifth-Order Iterative Method for Solving Multiple Roots of the Highest Multiplicity of Nonlinear Equation"
   },
@@ -174,6 +213,7 @@
       "Ramandeep Behl",
       "S.S. Motsa"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/645",
     "doi": "10.3390/a8030645",
     "title": "Local Convergence of an Optimal Eighth Order Method under Weak Conditions"
   },
@@ -183,6 +223,7 @@
       "Zhibin Miao",
       "Hongtian Zhang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/632",
     "doi": "10.3390/a8030632",
     "title": "Data Fusion Modeling for an RT3102 and Dewetron System Application in Hybrid Vehicle Stability Testing"
   },
@@ -194,6 +235,7 @@
       "Hongbin Li",
       "Jun Fang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/621",
     "doi": "10.3390/a8030621",
     "title": "One-Bit Quantization and Distributed Detection with an Unknown Scale Parameter"
   },
@@ -204,6 +246,7 @@
       "Daniel Jeske",
       "Erchin Serpedin"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/590",
     "doi": "10.3390/a8030590",
     "title": "An Overview of a Class of Clock Synchronization Algorithms for Wireless Sensor Networks: A Statistical Signal Processing Perspective"
   },
@@ -214,6 +257,7 @@
       "Jiao Feng",
       "Rodrigo C. de Lamare"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/573",
     "doi": "10.3390/a8030573",
     "title": "Robust Rank Reduction Algorithm with Iterative Parameter Optimization and Vector Perturbation"
   },
@@ -224,6 +268,7 @@
       "Guoguang Zhao",
       "Donghong Sun"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/562",
     "doi": "10.3390/a8030562",
     "title": "Modeling Documents with Event Model"
   },
@@ -232,6 +277,7 @@
     "authors": [
       "Diyashvir Kreetee Rajiv Babajee"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/552",
     "doi": "10.3390/a8030552",
     "title": "Some Improvements to a Third Order Variant of Newton\u2019s Method from Simpson\u2019s Rule"
   },
@@ -243,6 +289,7 @@
       "Shouda Jiang",
       "Changan Wei"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/541",
     "doi": "10.3390/a8030541",
     "title": "Target Detection Algorithm Based on Two Layers Human Visual System"
   },
@@ -254,6 +301,7 @@
       "Ping Fu",
       "Shouda Jiang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/529",
     "doi": "10.3390/a8030529",
     "title": "A Parallel Search Strategy Based on Sparse Representation for Infrared Target Tracking"
   },
@@ -263,6 +311,7 @@
       "Jos\u00e9 Antonio Ezquerro",
       "Miguel \u00c1ngel Hern\u00e1ndez-Ver\u00f3n"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/514",
     "doi": "10.3390/a8030514",
     "title": "On the Accessibility of Newton\u2019s Method under a H\u00f6lder Condition on the First Derivative"
   },
@@ -274,6 +323,7 @@
       "Li (Alex) Li",
       "Jiao Feng"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/484",
     "doi": "10.3390/a8030484",
     "title": "Multi-Feedback Interference Cancellation Algorithms for OFDM Systems over Doubly-Selective Channels"
   },
@@ -283,6 +333,7 @@
       "Tom Burr",
       "Alexei Skurikhin"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/466",
     "doi": "10.3390/a8030466",
     "title": "Conditional Random Fields for Pattern Recognition Applied  to Structured Data"
   },
@@ -291,6 +342,7 @@
     "authors": [
       "Ian Parberry"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/459",
     "doi": "10.3390/a8030459",
     "title": "Solving the (n2 \u2212 1)-Puzzle with 8/3 n3 Expected Moves"
   },
@@ -299,6 +351,7 @@
     "authors": [
       "Natarajan Meghanathan"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/435",
     "doi": "10.3390/a8030435",
     "title": "A Benchmarking Algorithm to Determine Minimum Aggregation Delay for Data Gathering Trees and an Analysis of the Diameter-Aggregation Delay Tradeoff"
   },
@@ -311,6 +364,7 @@
       "Xiang Wu",
       "Long Li"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/424",
     "doi": "10.3390/a8030424",
     "title": "Multi-Objective Design Optimization of an Over-Constrained Flexure-Based Amplifier"
   },
@@ -320,6 +374,7 @@
       "Mohammad Ghorbanzadeh",
       "Fazlollah Soleymani"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/415",
     "doi": "10.3390/a8030415",
     "title": "A Quartically Convergent Jarratt-Type Method for Nonlinear System of Equations"
   },
@@ -330,6 +385,7 @@
       "Yong Wang",
       "Yudong Xie"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/407",
     "doi": "10.3390/a8030407",
     "title": "Implementation of a Parallel Algorithm Based on a Spark Cloud Computing Platform"
   },
@@ -341,6 +397,7 @@
       "Masaji Utsu",
       "Takashi Nagassawa"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/395",
     "doi": "10.3390/a8030395",
     "title": "Algorithms for Computerized Fetal Heart Rate Diagnosis with Direct Reporting"
   },
@@ -351,6 +408,7 @@
       "Jiajin Le",
       "Mei Wang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/380",
     "doi": "10.3390/a8030380",
     "title": "Improving CLOPE\u2019s Profit Value and Stability with an Optimized Agglomerative Approach"
   },
@@ -361,6 +419,7 @@
       "Xiang-Dong Wang",
       "Dong-Qing Wang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/366",
     "doi": "10.3390/a8030366",
     "title": "Identification of Dual-Rate Sampled Hammerstein Systems with a Piecewise-Linear Nonlinearity Using the Key Variable Separation Technique"
   },
@@ -371,6 +430,7 @@
       "Seif-Eddeen K. Fateen",
       "Adri\u00e1n Bonilla-Petriciolet"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/336",
     "doi": "10.3390/a8020336",
     "title": "MAKHA\u2014A New Hybrid Swarm Intelligence Global Optimization Algorithm"
   },
@@ -381,6 +441,7 @@
       "Tao Zhang",
       "Yong Ou Zhang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/321",
     "doi": "10.3390/a8020321",
     "title": "Time Domain Simulation of Sound Waves Using Smoothed Particle Hydrodynamics Algorithm with Artificial Viscosity"
   },
@@ -391,6 +452,7 @@
       "Vinay Kanwar",
       "Saurabh Bhatia"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/309",
     "doi": "10.3390/a8020309",
     "title": "An Optimal Eighth-Order Derivative-Free Family of Potra-Pt\u00e1k\u2019s Method"
   },
@@ -401,6 +463,7 @@
       "Quang Hung Do",
       "Ho-Nien Hsieh"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/292",
     "doi": "10.3390/a8020292",
     "title": "Training Artificial Neural Networks by a Hybrid  PSO-CS Algorithm"
   },
@@ -410,6 +473,7 @@
       "Dandan Meng",
       "Feng Ding"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/280",
     "doi": "10.3390/a8020280",
     "title": "Model Equivalence-Based Identification Algorithm for Equation-Error Systems with Colored Noise"
   },
@@ -420,6 +484,7 @@
       "Alicia Cordero",
       "Juan R. Torregrosa"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/271",
     "doi": "10.3390/a8020271",
     "title": "Dynamics and Fractal Dimension of Steffensen-Type Methods"
   },
@@ -429,6 +494,7 @@
       "Marius Nicolae",
       "Sanguthevar Rajasekaran"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/248",
     "doi": "10.3390/a8020248",
     "title": "On String Matching with Mismatches"
   },
@@ -439,6 +505,7 @@
       "Yang Liu",
       "Caiquan Xiong"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/234",
     "doi": "10.3390/a8020234",
     "title": "An Optimization Clustering Algorithm Based on Texture Feature Fusion for Color Image Segmentation"
   },
@@ -449,6 +516,7 @@
       "Antonio Franques",
       "Juan R. Torregrosa"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/224",
     "doi": "10.3390/a8020224",
     "title": "Numerical Solution of Turbulence Problems by Solving Burgers\u2019 Equation"
   },
@@ -458,6 +526,7 @@
       "Takanobu Yanagihara",
       "Hotaka Takizawa"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/209",
     "doi": "10.3390/a8020209",
     "title": "Pulmonary Nodule Detection from X-ray CT Images Based on Region Shape Analysis and Appearance-based Clustering"
   },
@@ -466,6 +535,7 @@
     "authors": [
       "Ting Kuo"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/190",
     "doi": "10.3390/a8020190",
     "title": "From Enumerating to Generating: A Linear Time Algorithm for Generating 2D Lattice Paths with a Given Number of Turns"
   },
@@ -476,29 +546,32 @@
       "Sheng Zhang",
       "Yangguang Liu"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/177",
     "doi": "10.3390/a8020177",
     "title": "An Adaptive Spectral Clustering Algorithm Based on the Importance of Shared Nearest Neighbors"
   },
   {
-    "date": " 23 April 2015",
+    "date": " 16 October 2015",
     "authors": [
-      "Wei Li",
-      "Lei Wang",
-      "Qiaoyong Jiang",
-      "Xinhong Hei",
-      "Bin Wang"
+      "Kai Yang",
+      "Rencheng Zhang",
+      "Shouhong Chen",
+      "Fujiang Zhang",
+      "Jianhong Yang",
+      "Xingbin Zhang"
     ],
-    "doi": "10.3390/a8020157",
-    "title": "Multiobjective Cloud Particle Optimization Algorithm Based on Decomposition"
+    "url": "http://www.mdpi.com/1999-4893/8/4/929",
+    "doi": "10.3390/a8040929",
+    "title": "Series Arc Fault Detection Algorithm Based on Autoregressive Bispectrum Analysis"
   },
   {
-    "date": " 22 April 2015",
+    "date": " 16 October 2015",
     "authors": [
-      "Yaming Ren",
-      "Shumin Fei"
+      "Ahmed M. Khedr"
     ],
-    "doi": "10.3390/a8020144",
-    "title": "The Auxiliary Problem Principle with Self-Adaptive Penalty Parameter for Multi-Area Economic Dispatch Problem"
+    "url": "http://www.mdpi.com/1999-4893/8/4/910",
+    "doi": "10.3390/a8040910",
+    "title": "Effective Data Acquisition Protocol for Multi-Hop Heterogeneous Wireless Sensor Networks Using Compressive Sensing"
   },
   {
     "date": " 9 October 2015",
@@ -507,6 +580,7 @@
       "Kalyanasundaram Madhu",
       "Jayakumar Jayaraman"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/4/895",
     "doi": "10.3390/a8040895",
     "title": "On Some Improved Harmonic Mean Newton-Like Methods for Solving Systems of Nonlinear Equations"
   },
@@ -519,6 +593,7 @@
       "Feng Zhou",
       "Guangjie Han"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/4/870",
     "doi": "10.3390/a8040870",
     "title": "Code Synchronization Algorithm Based on Segment Correlation in Spread Spectrum Communication"
   },
@@ -531,6 +606,7 @@
       "Mathilde Le Boudic-Jamin",
       "Inken Wohlers"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/4/850",
     "doi": "10.3390/a8040850",
     "title": "Automatic Classification of Protein Structure Using the Maximum Contact Map Overlap Metric"
   },
@@ -540,6 +616,7 @@
       "George A. Anastassiou",
       "Ioannis K. Argyros"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/4/832",
     "doi": "10.3390/a8040832",
     "title": "Newton-Type Methods on Generalized Banach Spaces and Applications in Fractional Calculus"
   },
@@ -551,6 +628,7 @@
       "Hafedh Mohamed-Babou",
       "Irena Rusu"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/4/810",
     "doi": "10.3390/a8040810",
     "title": "Finding Supported Paths in Heterogeneous Networks"
   },
@@ -560,6 +638,7 @@
       "Tingping Zhang",
       "Guan Gui"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/4/799",
     "doi": "10.3390/a8040799",
     "title": "Reweighted Factor Selection for SLMS-RL1\u00a0Algorithm under Gaussian Mixture Noise Environments"
   },
@@ -572,6 +651,7 @@
       "Sheng Zhang",
       "Xiaodong Fan"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/786",
     "doi": "10.3390/a8030786",
     "title": "A Family of Newton Type Iterative Methods for Solving Nonlinear Equations"
   },
@@ -582,6 +662,7 @@
       "Stefan Maruster",
       "Liviu Octavian Mafteiu-Scai"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/774",
     "doi": "10.3390/a8030774",
     "title": "Parallel Variants of Broyden\u2019s Method"
   },
@@ -593,6 +674,7 @@
       "Antonio Miranda",
       "Guillermo Fern\u00e1ndez-Anaya"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/754",
     "doi": "10.3390/a8030754",
     "title": "Modified Classical Graph Algorithms for the DNA Fragment Assembly Problem"
   },
@@ -602,6 +684,7 @@
       "Yanjun Liu",
       "Taiyang Tao"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/743",
     "doi": "10.3390/a8030743",
     "title": "A CS Recovery Algorithm for Model and Time Delay Identification of MISO-FIR Systems"
   },
@@ -612,6 +695,7 @@
       "Ioannis X. Tassopoulos",
       "Grigorios N. Beligiannis"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/723",
     "doi": "10.3390/a8030723",
     "title": "A Comparative Study of Modern Heuristics on the School Timetabling Problem"
   },
@@ -623,6 +707,7 @@
       "Huigang Xu",
       "Peiyi Zhu"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/712",
     "doi": "10.3390/a8030712",
     "title": "Gradient-Based Iterative Identification for Wiener Nonlinear Dynamic Systems with Moving Average Noises"
   },
@@ -632,6 +717,7 @@
       "Puren Ouyang",
       "Vangjel Pano"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/697",
     "doi": "10.3390/a8030697",
     "title": "Comparative Study of DE, PSO and GA for Position Domain PID Controller Tuning"
   },
@@ -641,6 +727,7 @@
       "Suman Saha",
       "Satya P. Ghrera"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/680",
     "doi": "10.3390/a8030680",
     "title": "Network Community Detection on Metric Space"
   },
@@ -652,6 +739,7 @@
       "Concepci\u00f3n Berm\u00fadez",
       "\u00c1ngel Alberto Magre\u00f1\u00e1n"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/669",
     "doi": "10.3390/a8030669",
     "title": "Expanding the Applicability of a Third Order Newton-Type Method Free of Bilinear Operators"
   },
@@ -665,6 +753,7 @@
       "Lin Wang",
       "Feng Pan"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/656",
     "doi": "10.3390/a8030656",
     "title": "Fifth-Order Iterative Method for Solving Multiple Roots of the Highest Multiplicity of Nonlinear Equation"
   },
@@ -675,6 +764,7 @@
       "Ramandeep Behl",
       "S.S. Motsa"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/645",
     "doi": "10.3390/a8030645",
     "title": "Local Convergence of an Optimal Eighth Order Method under Weak Conditions"
   },
@@ -684,6 +774,7 @@
       "Zhibin Miao",
       "Hongtian Zhang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/632",
     "doi": "10.3390/a8030632",
     "title": "Data Fusion Modeling for an RT3102 and Dewetron System Application in Hybrid Vehicle Stability Testing"
   },
@@ -695,6 +786,7 @@
       "Hongbin Li",
       "Jun Fang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/621",
     "doi": "10.3390/a8030621",
     "title": "One-Bit Quantization and Distributed Detection with an Unknown Scale Parameter"
   },
@@ -705,6 +797,7 @@
       "Daniel Jeske",
       "Erchin Serpedin"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/590",
     "doi": "10.3390/a8030590",
     "title": "An Overview of a Class of Clock Synchronization Algorithms for Wireless Sensor Networks: A Statistical Signal Processing Perspective"
   },
@@ -715,6 +808,7 @@
       "Jiao Feng",
       "Rodrigo C. de Lamare"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/573",
     "doi": "10.3390/a8030573",
     "title": "Robust Rank Reduction Algorithm with Iterative Parameter Optimization and Vector Perturbation"
   },
@@ -725,6 +819,7 @@
       "Guoguang Zhao",
       "Donghong Sun"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/562",
     "doi": "10.3390/a8030562",
     "title": "Modeling Documents with Event Model"
   },
@@ -733,6 +828,7 @@
     "authors": [
       "Diyashvir Kreetee Rajiv Babajee"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/552",
     "doi": "10.3390/a8030552",
     "title": "Some Improvements to a Third Order Variant of Newton\u2019s Method from Simpson\u2019s Rule"
   },
@@ -744,6 +840,7 @@
       "Shouda Jiang",
       "Changan Wei"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/541",
     "doi": "10.3390/a8030541",
     "title": "Target Detection Algorithm Based on Two Layers Human Visual System"
   },
@@ -755,6 +852,7 @@
       "Ping Fu",
       "Shouda Jiang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/529",
     "doi": "10.3390/a8030529",
     "title": "A Parallel Search Strategy Based on Sparse Representation for Infrared Target Tracking"
   },
@@ -764,6 +862,7 @@
       "Jos\u00e9 Antonio Ezquerro",
       "Miguel \u00c1ngel Hern\u00e1ndez-Ver\u00f3n"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/514",
     "doi": "10.3390/a8030514",
     "title": "On the Accessibility of Newton\u2019s Method under a H\u00f6lder Condition on the First Derivative"
   },
@@ -775,6 +874,7 @@
       "Li (Alex) Li",
       "Jiao Feng"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/484",
     "doi": "10.3390/a8030484",
     "title": "Multi-Feedback Interference Cancellation Algorithms for OFDM Systems over Doubly-Selective Channels"
   },
@@ -784,6 +884,7 @@
       "Tom Burr",
       "Alexei Skurikhin"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/466",
     "doi": "10.3390/a8030466",
     "title": "Conditional Random Fields for Pattern Recognition Applied  to Structured Data"
   },
@@ -792,6 +893,7 @@
     "authors": [
       "Ian Parberry"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/459",
     "doi": "10.3390/a8030459",
     "title": "Solving the (n2 \u2212 1)-Puzzle with 8/3 n3 Expected Moves"
   },
@@ -800,6 +902,7 @@
     "authors": [
       "Natarajan Meghanathan"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/435",
     "doi": "10.3390/a8030435",
     "title": "A Benchmarking Algorithm to Determine Minimum Aggregation Delay for Data Gathering Trees and an Analysis of the Diameter-Aggregation Delay Tradeoff"
   },
@@ -812,6 +915,7 @@
       "Xiang Wu",
       "Long Li"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/424",
     "doi": "10.3390/a8030424",
     "title": "Multi-Objective Design Optimization of an Over-Constrained Flexure-Based Amplifier"
   },
@@ -821,6 +925,7 @@
       "Mohammad Ghorbanzadeh",
       "Fazlollah Soleymani"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/415",
     "doi": "10.3390/a8030415",
     "title": "A Quartically Convergent Jarratt-Type Method for Nonlinear System of Equations"
   },
@@ -831,6 +936,7 @@
       "Yong Wang",
       "Yudong Xie"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/407",
     "doi": "10.3390/a8030407",
     "title": "Implementation of a Parallel Algorithm Based on a Spark Cloud Computing Platform"
   },
@@ -842,6 +948,7 @@
       "Masaji Utsu",
       "Takashi Nagassawa"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/395",
     "doi": "10.3390/a8030395",
     "title": "Algorithms for Computerized Fetal Heart Rate Diagnosis with Direct Reporting"
   },
@@ -852,6 +959,7 @@
       "Jiajin Le",
       "Mei Wang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/380",
     "doi": "10.3390/a8030380",
     "title": "Improving CLOPE\u2019s Profit Value and Stability with an Optimized Agglomerative Approach"
   },
@@ -862,6 +970,7 @@
       "Xiang-Dong Wang",
       "Dong-Qing Wang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/3/366",
     "doi": "10.3390/a8030366",
     "title": "Identification of Dual-Rate Sampled Hammerstein Systems with a Piecewise-Linear Nonlinearity Using the Key Variable Separation Technique"
   },
@@ -872,6 +981,7 @@
       "Seif-Eddeen K. Fateen",
       "Adri\u00e1n Bonilla-Petriciolet"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/336",
     "doi": "10.3390/a8020336",
     "title": "MAKHA\u2014A New Hybrid Swarm Intelligence Global Optimization Algorithm"
   },
@@ -882,6 +992,7 @@
       "Tao Zhang",
       "Yong Ou Zhang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/321",
     "doi": "10.3390/a8020321",
     "title": "Time Domain Simulation of Sound Waves Using Smoothed Particle Hydrodynamics Algorithm with Artificial Viscosity"
   },
@@ -892,6 +1003,7 @@
       "Vinay Kanwar",
       "Saurabh Bhatia"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/309",
     "doi": "10.3390/a8020309",
     "title": "An Optimal Eighth-Order Derivative-Free Family of Potra-Pt\u00e1k\u2019s Method"
   },
@@ -902,6 +1014,7 @@
       "Quang Hung Do",
       "Ho-Nien Hsieh"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/292",
     "doi": "10.3390/a8020292",
     "title": "Training Artificial Neural Networks by a Hybrid  PSO-CS Algorithm"
   },
@@ -911,6 +1024,7 @@
       "Dandan Meng",
       "Feng Ding"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/280",
     "doi": "10.3390/a8020280",
     "title": "Model Equivalence-Based Identification Algorithm for Equation-Error Systems with Colored Noise"
   },
@@ -921,6 +1035,7 @@
       "Alicia Cordero",
       "Juan R. Torregrosa"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/271",
     "doi": "10.3390/a8020271",
     "title": "Dynamics and Fractal Dimension of Steffensen-Type Methods"
   },
@@ -930,6 +1045,7 @@
       "Marius Nicolae",
       "Sanguthevar Rajasekaran"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/248",
     "doi": "10.3390/a8020248",
     "title": "On String Matching with Mismatches"
   },
@@ -940,6 +1056,7 @@
       "Yang Liu",
       "Caiquan Xiong"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/234",
     "doi": "10.3390/a8020234",
     "title": "An Optimization Clustering Algorithm Based on Texture Feature Fusion for Color Image Segmentation"
   },
@@ -950,6 +1067,7 @@
       "Antonio Franques",
       "Juan R. Torregrosa"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/224",
     "doi": "10.3390/a8020224",
     "title": "Numerical Solution of Turbulence Problems by Solving Burgers\u2019 Equation"
   },
@@ -959,6 +1077,7 @@
       "Takanobu Yanagihara",
       "Hotaka Takizawa"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/209",
     "doi": "10.3390/a8020209",
     "title": "Pulmonary Nodule Detection from X-ray CT Images Based on Region Shape Analysis and Appearance-based Clustering"
   },
@@ -967,6 +1086,7 @@
     "authors": [
       "Ting Kuo"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/190",
     "doi": "10.3390/a8020190",
     "title": "From Enumerating to Generating: A Linear Time Algorithm for Generating 2D Lattice Paths with a Given Number of Turns"
   },
@@ -977,6 +1097,7 @@
       "Sheng Zhang",
       "Yangguang Liu"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/177",
     "doi": "10.3390/a8020177",
     "title": "An Adaptive Spectral Clustering Algorithm Based on the Importance of Shared Nearest Neighbors"
   },
@@ -989,6 +1110,7 @@
       "Xinhong Hei",
       "Bin Wang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/157",
     "doi": "10.3390/a8020157",
     "title": "Multiobjective Cloud Particle Optimization Algorithm Based on Decomposition"
   },
@@ -998,6 +1120,7 @@
       "Yaming Ren",
       "Shumin Fei"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/144",
     "doi": "10.3390/a8020144",
     "title": "The Auxiliary Problem Principle with Self-Adaptive Penalty Parameter for Multi-Area Economic Dispatch Problem"
   },
@@ -1008,6 +1131,7 @@
       "Hong-fu Zuo",
       "Jiao Feng"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/128",
     "doi": "10.3390/a8020128",
     "title": "A Clustering Algorithm based on Feature Weighting Fuzzy Compactness and Separation"
   },
@@ -1018,6 +1142,7 @@
       "Yu-Chen Wei",
       "Bo-Chih Chen"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/100",
     "doi": "10.3390/a8020100",
     "title": "A Study on the Fuzzy-Logic-Based Solar Power MPPT Algorithms Using Different Fuzzy Input Variables"
   },
@@ -1026,6 +1151,7 @@
     "authors": [
       "Mihaly Mezei"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/92",
     "doi": "10.3390/a8020092",
     "title": "Statistical Properties of Protein-Protein Interfaces"
   },
@@ -1035,6 +1161,7 @@
       "Roberta Anniballe",
       "Stefania Bonafoni"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/2/82",
     "doi": "10.3390/a8020082",
     "title": "A Stable Gaussian Fitting Procedure for the Parameterization of Remote Sensed Thermal Images"
   },
@@ -1046,6 +1173,7 @@
       "Rolf Niedermeier",
       "Martin R\u00f6tzschke"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/1/60",
     "doi": "10.3390/a8010060",
     "title": "The Parameterized Complexity of the Rainbow Subgraph Problem"
   },
@@ -1055,6 +1183,7 @@
       "Colin McDiarmid",
       "Nikola Yolov"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/1/46",
     "doi": "10.3390/a8010046",
     "title": "Recognition of Unipolar and Generalised Split Graphs"
   },
@@ -1065,6 +1194,7 @@
       "Hui Yang",
       "Rong Fei"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/1/32",
     "doi": "10.3390/a8010032",
     "title": "An Efficient SAR Image Segmentation Framework Using Transformed Nonlocal Mean and Multi-Objective Clustering in Kernel Space"
   },
@@ -1078,6 +1208,7 @@
       "Takano Makoto",
       "Yu Bin"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/1/19",
     "doi": "10.3390/a8010019",
     "title": "An Improved Shuffled Frog-Leaping Algorithm for Flexible Job Shop Scheduling Problem"
   },
@@ -1089,6 +1220,7 @@
       "Yan-Hong Wang",
       "Hong-Xia Yu"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/1/3",
     "doi": "10.3390/a8010003",
     "title": "Networked Control System Time-Delay Compensation Based on Time-Delay Prediction and Improved Implicit GPC"
   },
@@ -1097,6 +1229,7 @@
     "authors": [
       "Algorithms Editorial Office"
     ],
+    "url": "http://www.mdpi.com/1999-4893/8/1/1",
     "doi": "10.3390/a8010001",
     "title": "Acknowledgement to Reviewers of Algorithms in 2014"
   },
@@ -1109,6 +1242,7 @@
       "Na Jiang",
       "Ning Zhao"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/4/685",
     "doi": "10.3390/a7040685",
     "title": "Fusion of Multiple Pyroelectric Characteristics for Human  Body Identification"
   },
@@ -1120,6 +1254,7 @@
       "Na Wang",
       "Yongjian He"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/4/663",
     "doi": "10.3390/a7040663",
     "title": "COOBBO: A Novel Opposition-Based Soft Computing Algorithm for TSP Problems"
   },
@@ -1130,6 +1265,7 @@
       "Jie-Sheng Wang",
       "Chen-Xu Ning"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/4/650",
     "doi": "10.3390/a7040650",
     "title": "Time Series Prediction Method of Bank Cash Flow and Simulation Comparison"
   },
@@ -1142,6 +1278,7 @@
       "Chih-Yi Chen",
       "Wen-Pinn Fang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/4/635",
     "doi": "10.3390/a7040635",
     "title": "The Lobe Fissure Tracking by the Modified Ant Colony Optimization Framework in CT Images"
   },
@@ -1155,6 +1292,7 @@
       "Francesco Riganti Fulginei",
       "Daniele Bibbo"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/4/621",
     "doi": "10.3390/a7040621",
     "title": "Neural Networks for Muscle Forces Prediction in Cycling"
   },
@@ -1164,6 +1302,7 @@
       "Kai Beskers",
       "Johannes Fischer"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/4/608",
     "doi": "10.3390/a7040608",
     "title": "High-Order Entropy Compressed Bit Vectors with Rank/Select"
   },
@@ -1175,6 +1314,7 @@
       "Sheng-Chih Yang",
       "Hsueh-Yi Lin"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/4/597",
     "doi": "10.3390/a7040597",
     "title": "Eight-Scale Image Contrast Enhancement Based on Adaptive Inverse Hyperbolic Tangent Algorithm"
   },
@@ -1183,6 +1323,7 @@
     "authors": [
       "Yuan-Ko Huang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/4/582",
     "doi": "10.3390/a7040582",
     "title": "Processing KNN Queries in Grid-Based Sensor Networks"
   },
@@ -1193,6 +1334,7 @@
       "Ismael Rodr\u00edguez",
       "Fernando Rubio"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/4/554",
     "doi": "10.3390/a7040554",
     "title": "Parallelizing Particle Swarm Optimization in a Functional Programming Environment"
   },
@@ -1203,6 +1345,7 @@
       "Ho-Nien Hsieh",
       "Quang Hung Do"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/4/538",
     "doi": "10.3390/a7040538",
     "title": "Predicting Student Academic Performance: A Comparison of Two Meta-Heuristic Algorithms Inspired by Cuckoo Birds for Training Neural Networks"
   },
@@ -1214,6 +1357,7 @@
       "Tianzhen Liu",
       "Qiaohui Tong"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/4/523",
     "doi": "10.3390/a7040523",
     "title": "Multi-Sensor Building Fire Alarm System with Information Fusion Technology Based on D-S Evidence Theory"
   },
@@ -1225,6 +1369,7 @@
       "Qiang Zhou",
       "Songnong Li"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/4/510",
     "doi": "10.3390/a7040510",
     "title": "A CR Spectrum Allocation Algorithm in Smart Grid Wireless Sensor Network"
   },
@@ -1236,6 +1381,7 @@
       "Jzau-Sheng Lin",
       "Xiaowei Li"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/4/492",
     "doi": "10.3390/a7040492",
     "title": "Power Cable Fault Recognition Based on an Annealed Chaotic Competitive Learning Network"
   },
@@ -1247,6 +1393,7 @@
       "Qian Chang",
       "Tengfei Qian"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/3/471",
     "doi": "10.3390/a7030471",
     "title": "Applying a Dynamic Resource Supply Model in a Smart Grid"
   },
@@ -1257,6 +1404,7 @@
       "Chen-Chung Liu",
       "Shyr-Shen Yu"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/3/456",
     "doi": "10.3390/a7030456",
     "title": "A Fovea Localization Scheme Using Vessel Origin-Based Parabolic Model"
   },
@@ -1267,6 +1415,7 @@
       "Jen-Tse Wang",
       "Wang-Hsai Yang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/3/444",
     "doi": "10.3390/a7030444",
     "title": "A Novel Contrast Enhancement Technique on Palm Bone Images"
   },
@@ -1278,6 +1427,7 @@
       "Shu-Cherng Fang",
       "Jian Luo"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/3/429",
     "doi": "10.3390/a7030429",
     "title": "\u21131 Major Component Detection and Analysis (\u21131 MCDA) in Three and Higher Dimensional Spaces"
   },
@@ -1289,6 +1439,7 @@
       "Changlin Luo",
       "Xiaoniu Yang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/3/418",
     "doi": "10.3390/a7030418",
     "title": "Target Channel Visiting Order Design Using Particle Swarm Optimization for Spectrum Handoff in Cognitive Radio Networks"
   },
@@ -1299,6 +1450,7 @@
       "Qingsong Xu",
       "Lifeng Zhou"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/3/405",
     "doi": "10.3390/a7030405",
     "title": "Seminal Quality Prediction Using Clustering-Based Decision Forests"
   },
@@ -1308,6 +1460,7 @@
       "Wen-Qing Ma",
       "Jing Zhang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/3/397",
     "doi": "10.3390/a7030397",
     "title": "Algorithm Based on Heuristic Strategy to Infer Lossy Links in Wireless Sensor Networks"
   },
@@ -1318,6 +1471,7 @@
       "Fulvio Antonio Cappadonna",
       "Sergio Fichera"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/3/376",
     "doi": "10.3390/a7030376",
     "title": "A Hybrid Metaheuristic Approach for Minimizing  the Total Flow Time in A Flow Shop Sequence Dependent Group Scheduling Problem"
   },
@@ -1327,6 +1481,7 @@
       "Huang Aiqin",
       "Wang Yong"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/3/363",
     "doi": "10.3390/a7030363",
     "title": "Pressure Model of Control Valve Based on LS-SVM with the Fruit Fly Algorithm"
   },
@@ -1336,6 +1491,7 @@
       "Antonella Santone",
       "Gigliola Vaglini"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/3/339",
     "doi": "10.3390/a7030339",
     "title": "Model Checking Properties on Reduced Trace Systems"
   },
@@ -1345,6 +1501,7 @@
       "Aadil Latif",
       "Peter Palensky"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/3/328",
     "doi": "10.3390/a7030328",
     "title": "Economic Dispatch Using Modified Bat Algorithm"
   },
@@ -1357,6 +1514,7 @@
       "Panayiotis Alefragis",
       "Efthymios Housos"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/3/295",
     "doi": "10.3390/a7030295",
     "title": "Solving the Examination Timetabling Problem in GPUs"
   },
@@ -1367,6 +1525,7 @@
       "Neil E. Wilson",
       "M. Albert Thomas"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/3/276",
     "doi": "10.3390/a7030276",
     "title": "Group Sparse Reconstruction of Multi-Dimensional Spectroscopic Imaging in Human Brain in vivo"
   },
@@ -1377,6 +1536,7 @@
       "Donald Adjeroh",
       "Yue Jiang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/2/253",
     "doi": "10.3390/a7020253",
     "title": "A Faster Quick Search Algorithm"
   },
@@ -1386,6 +1546,7 @@
       "Niklas Zechner",
       "Andrzej Lingas"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/2/243",
     "doi": "10.3390/a7020243",
     "title": "Efficient Algorithms for Subgraph Listing"
   },
@@ -1396,6 +1557,7 @@
       "Yong Wang",
       "Aiqin Huang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/2/229",
     "doi": "10.3390/a7020229",
     "title": "Application of Imperialist Competitive Algorithm on Solving the Traveling Salesman Problem"
   },
@@ -1405,6 +1567,7 @@
       "Howard Williams",
       "Mark Bishop"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/2/206",
     "doi": "10.3390/a7020206",
     "title": "Stochastic Diffusion Search: A Comparison of Swarm Intelligence Parameter Estimation Algorithms with RANSAC"
   },
@@ -1414,6 +1577,7 @@
       "P\u00e9ter Bir\u00f3",
       "David F. Manlove"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/2/203",
     "doi": "10.3390/a7020203",
     "title": "Editorial: Special Issue on Matching under Preferences"
   },
@@ -1422,6 +1586,7 @@
     "authors": [
       "Katarzyna Paluch"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/2/189",
     "doi": "10.3390/a7020189",
     "title": "Faster and Simpler Approximation of Stable Matchings"
   },
@@ -1430,6 +1595,7 @@
     "authors": [
       "Kazuo Iwama"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/2/188",
     "doi": "10.3390/a7020188",
     "title": "Correction: Pareto Optimization or Cascaded Weighted Sum:  A Comparison of Concepts. Algorithms 2014, 7, 166\u2013185"
   },
@@ -1438,6 +1604,7 @@
     "authors": [
       "Veli M\u00e4kinen"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/1/186",
     "doi": "10.3390/a7010186",
     "title": "Editorial: Special Issue on Algorithms for Sequence Analysis and Storage"
   },
@@ -1447,6 +1614,7 @@
       "Wilfried Jakob",
       "Christian Blume"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/1/166",
     "doi": "10.3390/a7010166",
     "title": "Pareto Optimization or Cascaded Weighted Sum:  A Comparison of Concepts"
   },
@@ -1457,6 +1625,7 @@
       "Suk Jin Lee",
       "Vijay Bhuse"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/1/145",
     "doi": "10.3390/a7010145",
     "title": "The Minimum Scheduling Time for Convergecast in Wireless Sensor Networks"
   },
@@ -1466,6 +1635,7 @@
       "Robert Giegerich",
       "H\u00b4el'ene Touzet"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/1/62",
     "doi": "10.3390/a7010062",
     "title": "Modeling Dynamic Programming Problems over Sequences and Trees with Inverse Coupled Rewrite Systems"
   },
@@ -1474,6 +1644,7 @@
     "authors": [
       "Algorithms Editorial Office"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/1/60",
     "doi": "10.3390/a7010060",
     "title": "Acknowledgement to Reviewers of Algorithms in 2013"
   },
@@ -1483,6 +1654,7 @@
       "Tam\u00e0s Fleiner",
       "Zsuzsanna Jank\u00f3"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/1/32",
     "doi": "10.3390/a7010032",
     "title": "Choice Function-Based Two-Sided Markets: Stability, Lattice Property, Path Independence and Algorithms"
   },
@@ -1493,6 +1665,7 @@
       "Bei Zhang",
       "Yu-Jun Zheng"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/1/15",
     "doi": "10.3390/a7010015",
     "title": "Bio-Inspired Meta-Heuristics for Emergency Transportation Problems"
   },
@@ -1501,6 +1674,7 @@
     "authors": [
       "Tam\u00e1s Fleiner"
     ],
+    "url": "http://www.mdpi.com/1999-4893/7/1/1",
     "doi": "10.3390/a7010001",
     "title": "On Stable Matchings and Flows"
   },
@@ -1512,6 +1686,7 @@
       "Lei Zhang",
       "Hao Wu"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/4/871",
     "doi": "10.3390/a6040871",
     "title": "Sparse Signal Recovery from Fixed Low-Rank Subspace via Compressive Measurement"
   },
@@ -1524,6 +1699,7 @@
       "Enrique S. Quintana-Ort\u00ed",
       "Alfredo Rem\u00f3n"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/4/857",
     "doi": "10.3390/a6040857",
     "title": "Solving Matrix Equations on Multi-Core and Many-Core Architectures"
   },
@@ -1533,6 +1709,7 @@
       "Giorgos Georgiadis",
       "Marina Papatriantafilou"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/4/824",
     "doi": "10.3390/a6040824",
     "title": "Overlays with Preferences: Distributed, Adaptive Approximation Algorithms for Matching with Preference Lists"
   },
@@ -1543,6 +1720,7 @@
       "Sartaj Sahni",
       "Sanguthevar Rajasekaran"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/4/805",
     "doi": "10.3390/a6040805",
     "title": "PMS6MC: A Multicore Algorithm for Motif Discovery"
   },
@@ -1554,6 +1732,7 @@
       "K. Brent Venable",
       "Toby Walsh"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/4/782",
     "doi": "10.3390/a6040782",
     "title": "Stability, Optimality and Manipulation in Matching Problems with Weighted Preferences"
   },
@@ -1563,6 +1742,7 @@
       "Shabnam Jabari",
       "Yun Zhang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/4/762",
     "doi": "10.3390/a6040762",
     "title": "Very High Resolution Satellite Image Classification Using  Fuzzy Rule-Based Systems"
   },
@@ -1575,6 +1755,7 @@
       "Anne Laurent",
       "Perfecto Malaquias Quintero Flores"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/4/747",
     "doi": "10.3390/a6040747",
     "title": "Multi-Core Parallel Gradual Pattern Mining Based on Multi-Precision Fuzzy Orderings"
   },
@@ -1586,6 +1767,7 @@
       "Xiaoqing Zhou",
       "Zehui Shao"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/4/726",
     "doi": "10.3390/a6040726",
     "title": "An Efficient Local Search for the Feedback Vertex Set Problem"
   },
@@ -1595,6 +1777,7 @@
       "Jonathan Hogg",
       "Jennifer Scott"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/4/702",
     "doi": "10.3390/a6040702",
     "title": "New Parallel Sparse Direct Solvers for Multicore Architectures"
   },
@@ -1605,6 +1788,7 @@
       "Andr\u00e9 Nichterlein",
       "Rolf Niedermeier"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/4/678",
     "doi": "10.3390/a6040678",
     "title": "Pattern-Guided k-Anonymity"
   },
@@ -1615,6 +1799,7 @@
       "Yunhui Fu",
       "Yuan Xue"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/4/636",
     "doi": "10.3390/a6040636",
     "title": "Sublinear Time Motif Discovery from Multiple Sequences"
   },
@@ -1624,6 +1809,7 @@
       "Ciaran McCreesh",
       "Patrick Prosser"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/4/618",
     "doi": "10.3390/a6040618",
     "title": "Multi-Threading a State-of-the-Art Maximum Clique Algorithm"
   },
@@ -1636,6 +1822,7 @@
       "K. Brent Venable",
       "Toby Walsh"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/4/591",
     "doi": "10.3390/a6040591",
     "title": "Local Search Approaches in Stable Matching Problems"
   },
@@ -1645,6 +1832,7 @@
       "Mario G.C.A. Cimino",
       "Gigliola Vaglini"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/3/565",
     "doi": "10.3390/a6030565",
     "title": "An Emergent Approach to Text Analysis Based on a Connectionist Model and the Web"
   },
@@ -1656,6 +1844,7 @@
       "Ali K. Esmailizadeh",
       "Nicholas S. Flann"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/3/546",
     "doi": "10.3390/a6030546",
     "title": "Quantitative Trait Loci Mapping Problem: An Extinction-Based Multi-Objective Evolutionary Algorithm Approach"
   },
@@ -1666,6 +1855,7 @@
       "Jannik Matuschke",
       "Martin Skutella"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/3/532",
     "doi": "10.3390/a6030532",
     "title": "Stable Flows over Time"
   },
@@ -1677,6 +1867,7 @@
       "Hussain Al-Ahmad",
       "Christian Donner"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/3/512",
     "doi": "10.3390/a6030512",
     "title": "Extraction and Segmentation of Sputum Cells for Lung Cancer Early Diagnosis"
   },
@@ -1690,6 +1881,7 @@
       "Giancarlo Rufino",
       "Giuseppe Maresca"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/3/494",
     "doi": "10.3390/a6030494",
     "title": "An Algorithm for Managing Aircraft Movement on an  Airport Surface"
   },
@@ -1699,6 +1891,7 @@
       "Daxin Zhu",
       "Xiaodong Wang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/3/485",
     "doi": "10.3390/a6030485",
     "title": "A Simple Algorithm for Solving for the Generalized Longest Common Subsequence (LCS) Problem with a Substring Exclusion Constraint"
   },
@@ -1707,6 +1900,7 @@
     "authors": [
       "Zolt\u00e1n Kir\u00e1ly"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/3/471",
     "doi": "10.3390/a6030471",
     "title": "Linear Time Local Approximation Algorithm for Maximum Stable Marriage"
   },
@@ -1715,6 +1909,7 @@
     "authors": [
       "Li-Yen Hsu"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/3/459",
     "doi": "10.3390/a6030459",
     "title": "Ubiquitous Integrity via Network Integration and  Parallelism\u2014Sustaining Pedestrian/Bike Urbanism"
   },
@@ -1723,6 +1918,7 @@
     "authors": [
       "Jesper Jansson"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/3/457",
     "doi": "10.3390/a6030457",
     "title": "Special Issue on Graph Algorithms"
   },
@@ -1731,6 +1927,7 @@
     "authors": [
       "Yasushi Kambayashi"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/3/442",
     "doi": "10.3390/a6030442",
     "title": "A Review of Routing Protocols Based on Ant-Like  Mobile Agents"
   },
@@ -1744,6 +1941,7 @@
       "Zivan Karaman",
       "Laxmi Parida"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/3/430",
     "doi": "10.3390/a6030430",
     "title": "Efficient in silico Chromosomal Representation of Populations via Indexing Ancestral Genomes"
   },
@@ -1754,6 +1952,7 @@
       "Jumlong Vongprasert",
       "Christofer Toumazou"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/3/407",
     "doi": "10.3390/a6030407",
     "title": "Noise Reduction for Nonlinear Nonstationary Time Series Data using Averaging Intrinsic Mode Function"
   },
@@ -1764,6 +1963,7 @@
       "Seyed Naser Hashemi",
       "Hadi Poormohammadi"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/3/396",
     "doi": "10.3390/a6030396",
     "title": "New Heuristics for Rooted Triplet Consistency"
   },
@@ -1773,6 +1973,7 @@
       "Christine T. Cheng",
       "Eric McDermid"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/3/383",
     "doi": "10.3390/a6030383",
     "title": "Maximum Locally Stable Matchings"
   },
@@ -1785,6 +1986,7 @@
       "Shuichi Miyazaki",
       "Takashi Nagase"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/2/371",
     "doi": "10.3390/a6020371",
     "title": "Improving Man-Optimal Stable Matchings by Minimum Change of Preference Lists"
   },
@@ -1794,6 +1996,7 @@
       "Matteo Comin",
       "Davide Verzotto"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/2/352",
     "doi": "10.3390/a6020352",
     "title": "Filtering Degenerate Patterns with Application to Protein Sequence Analysis"
   },
@@ -1804,6 +2007,7 @@
       "Rodrigo C\u00e1novas",
       "Gonzalo Navarro"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/2/319",
     "doi": "10.3390/a6020319",
     "title": "Practical Compressed Suffix Trees"
   },
@@ -1813,6 +2017,7 @@
       "Tommaso Mazza",
       "Stefano Castellana"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/2/309",
     "doi": "10.3390/a6020309",
     "title": "Multi-Sided Compression Performance Assessment of ABI SOLiD WES Data"
   },
@@ -1823,6 +2028,7 @@
       "Ioannis X. Tassopoulos",
       "Grigorios N. Beligiannis"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/2/278",
     "doi": "10.3390/a6020278",
     "title": "A Generic Two-Phase Stochastic Variable Neighborhood Approach for Effectively Solving the Nurse Rostering Problem"
   },
@@ -1836,6 +2042,7 @@
       "Karl-Uwe Stucky",
       "Wolfgang S\u00fc\u00df"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/2/245",
     "doi": "10.3390/a6020245",
     "title": "Fast Rescheduling of Multiple Workflows to Constrained Heterogeneous Resources Using Multi-Criteria  Memetic Computing"
   },
@@ -1845,6 +2052,7 @@
       "Ruey-Maw Chen",
       "Hsiao-Fang Shih"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/2/227",
     "doi": "10.3390/a6020227",
     "title": "Solving University Course Timetabling Problems Using Constriction Particle Swarm Optimization with Local Search"
   },
@@ -1855,6 +2063,7 @@
       "Gianluigi Ferrari",
       "Luca Veltri"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/2/197",
     "doi": "10.3390/a6020197",
     "title": "Enforcing Security Mechanisms in the IP-Based Internet of Things: An Algorithmic Overview"
   },
@@ -1864,6 +2073,7 @@
       "David H. Bailey",
       "Marcos L\u00f3pez de Prado"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/1/169",
     "doi": "10.3390/a6010169",
     "title": "An Open-Source Implementation of the Critical-Line Algorithm for Portfolio Optimization"
   },
@@ -1873,6 +2083,7 @@
       "Tam\u00e1s Kir\u00e1ly",
       "J\u00falia Pap"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/1/161",
     "doi": "10.3390/a6010161",
     "title": "Stable Multicommodity Flows"
   },
@@ -1881,6 +2092,7 @@
     "authors": [
       "Jun Ma"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/1/136",
     "doi": "10.3390/a6010136",
     "title": "Algorithms for Non-Negatively Constrained Maximum Penalized Likelihood Reconstruction in Tomographic Imaging"
   },
@@ -1890,6 +2102,7 @@
       "Tatsuya Akutsu",
       "Takeyuki Tamura"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/1/119",
     "doi": "10.3390/a6010119",
     "title": "A Polynomial-Time Algorithm for Computing the Maximum Common Connected Edge Subgraph of Outerplanar Graphs of Bounded Degree"
   },
@@ -1899,6 +2112,7 @@
       "Frank W. Takes",
       "Walter A. Kosters"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/1/100",
     "doi": "10.3390/a6010100",
     "title": "Computing the Eccentricity Distribution of Large Graphs"
   },
@@ -1908,6 +2122,7 @@
       "Jason T. Isaacs",
       "Jo\u00e3o P. Hespanha"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/1/84",
     "doi": "10.3390/a6010084",
     "title": "Dubins Traveling Salesman Problem with Neighborhoods: A Graph-Based Approach"
   },
@@ -1916,6 +2131,7 @@
     "authors": [
       "Ryuhei Uehara"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/1/60",
     "doi": "10.3390/a6010060",
     "title": "Tractabilities and Intractabilities on Geometric Intersection Graphs"
   },
@@ -1925,6 +2141,7 @@
       "Marjan Marzban",
       "Qian-Ping Gu"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/1/43",
     "doi": "10.3390/a6010043",
     "title": "Computational Study on a PTAS for Planar Dominating Set Problem"
   },
@@ -1936,6 +2153,7 @@
       "Dimitrios D. Vergados",
       "Christos Douligeris"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/1/29",
     "doi": "10.3390/a6010029",
     "title": "Energy Efficient Routing in Wireless Sensor Networks Through Balanced Clustering"
   },
@@ -1947,6 +2165,7 @@
       "John E. Lavery",
       "Shu-Cherng Fang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/1/12",
     "doi": "10.3390/a6010012",
     "title": "\u21131 Major Component Detection and Analysis (\u21131 MCDA): Foundations in Two Dimensions"
   },
@@ -1957,6 +2176,7 @@
       "Riccardo Dondi",
       "Yuri Pirola"
     ],
+    "url": "http://www.mdpi.com/1999-4893/6/1/1",
     "doi": "10.3390/a6010001",
     "title": "Maximum Disjoint Paths on Edge-Colored Graphs: Approximability and Tractability"
   },
@@ -1965,6 +2185,7 @@
     "authors": [
       "Takahisa Toda"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/4/654",
     "doi": "10.3390/a5040654",
     "title": "Extracting Co-Occurrence Relations from ZDDs"
   },
@@ -1973,6 +2194,7 @@
     "authors": [
       "Donatella Giuliani"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/4/636",
     "doi": "10.3390/a5040636",
     "title": "Edge Detection from MRI and DTI Images with an Anisotropic Vector Field Flow Using a Divergence Map"
   },
@@ -1986,6 +2208,7 @@
       "L\u00eddia Rejt\u00f5",
       "G\u00e1bor Tusn\u00e1dy"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/4/629",
     "doi": "10.3390/a5040629",
     "title": "Testing Goodness of Fit of Random Graph Models"
   },
@@ -1994,6 +2217,7 @@
     "authors": [
       "Joachim Wuttke"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/4/604",
     "doi": "10.3390/a5040604",
     "title": "Laplace\u2013Fourier Transform of the Stretched Exponential Function: Analytic Error Bounds, Double Exponential Transform, and Open-Source Implementation \u201clibkww\u201d"
   },
@@ -2004,6 +2228,7 @@
       "Jens Boss",
       "Martin Wolf"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/4/588",
     "doi": "10.3390/a5040588",
     "title": "An Efficient Algorithm for Automatic Peak Detection in Noisy Periodic and Quasi-Periodic Signals"
   },
@@ -2012,6 +2237,7 @@
     "authors": [
       "Patrick Prosser"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/4/545",
     "doi": "10.3390/a5040545",
     "title": "Exact Algorithms for Maximum Clique: A Computational Study\u00a0"
   },
@@ -2022,6 +2248,7 @@
       "Giulio Ventura",
       "Nicola Ponara"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/4/529",
     "doi": "10.3390/a5040529",
     "title": "Finite Element Quadrature of Regularized Discontinuous and Singular Level Set Functions in 3D Problems"
   },
@@ -2030,6 +2257,7 @@
     "authors": [
       "Ashraf M. Abdelbar"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/4/521",
     "doi": "10.3390/a5040521",
     "title": "Alpha-Beta Pruning and Alth\u00f6fer\u2019s Pathology-Free Negamax Algorithm"
   },
@@ -2039,6 +2267,7 @@
       "German Sapozhnikov",
       "Alexander Ulanov"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/4/506",
     "doi": "10.3390/a5040506",
     "title": "Extracting Hierarchies from Data Clusters for Better Classification"
   },
@@ -2050,6 +2279,7 @@
       "Bruce E. Kiefer",
       "Michael W. Berry"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/4/490",
     "doi": "10.3390/a5040490",
     "title": "The Effects of Tabular-Based Content Extraction on Patent Document Clustering"
   },
@@ -2060,6 +2290,7 @@
       "Nisheeth Srivastava",
       "Jaideep Srivastava"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/4/469",
     "doi": "10.3390/a5040469",
     "title": "Contextual Anomaly Detection in Text Data"
   },
@@ -2068,6 +2299,7 @@
     "authors": [
       "Toly Chen"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/4/449",
     "doi": "10.3390/a5040449",
     "title": "Forecasting the Unit Cost of a Product with Some Linear Fuzzy Collaborative Forecasting Models"
   },
@@ -2079,6 +2311,7 @@
       "Chun-Ying Yu",
       "Meng-Shiou Li"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/4/433",
     "doi": "10.3390/a5040433",
     "title": "Interaction Enhanced Imperialist Competitive Algorithms"
   },
@@ -2087,6 +2320,7 @@
     "authors": [
       "John E. Lavery"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/4/421",
     "doi": "10.3390/a5040421",
     "title": "Univariate Lp and \u026d p Averaging, 0 < p < 1, in Polynomial Time by Utilization of Statistical Structure"
   },
@@ -2097,6 +2331,7 @@
       "John M. Conroy",
       "Judith D. Schlesinger"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/4/398",
     "doi": "10.3390/a5040398",
     "title": "Better Metrics to Automatically Predict the Quality of a Text Summary"
   },
@@ -2106,6 +2341,7 @@
       "Yaakov Malinovsky",
       "Jacob Kogan"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/3/379",
     "doi": "10.3390/a5030379",
     "title": "Monitoring Threshold Functions over Distributed Data Streams with Node Dependent Constraints"
   },
@@ -2115,6 +2351,7 @@
       "Joel Azzopardi",
       "Christopher Staff"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/3/364",
     "doi": "10.3390/a5030364",
     "title": "Incremental Clustering of News Reports"
   },
@@ -2125,6 +2362,7 @@
       "Linwood W. Jones",
       "Mark T. Woods"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/3/330",
     "doi": "10.3390/a5030330",
     "title": "Use of Logistic Regression for Forecasting Short-Term Volcanic Activity"
   },
@@ -2133,6 +2371,7 @@
     "authors": [
       "Michael Barnathan"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/3/318",
     "doi": "10.3390/a5030318",
     "title": "Mammographic Segmentation Using WaveCluster"
   },
@@ -2141,6 +2380,7 @@
     "authors": [
       "Toly Chen"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/2/304",
     "doi": "10.3390/a5020304",
     "title": "An Agent-Based Fuzzy Collaborative Intelligence Approach for Predicting the Price of a Dynamic Random Access Memory (DRAM) Product"
   },
@@ -2150,6 +2390,7 @@
       "Leila Ismail",
       "Liren Zhang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/2/289",
     "doi": "10.3390/a5020289",
     "title": "Modeling and Performance Analysis to Predict the Behavior of a Divisible Load Application in a Cloud Computing Environment"
   },
@@ -2158,6 +2399,7 @@
     "authors": [
       "Hideki Tsuiki"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/2/273",
     "doi": "10.3390/a5020273",
     "title": "Imaginary Cubes and Their Puzzles"
   },
@@ -2168,6 +2410,7 @@
       "Kento Sasaki",
       "Kenichi Morita"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/2/261",
     "doi": "10.3390/a5020261",
     "title": "A Polynomial-Time Reduction from the 3SAT Problem to the Generalized String Puzzle Problem"
   },
@@ -2178,6 +2421,7 @@
       "Cornel Constantinescu",
       "Prasenjit Sarkar"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/2/236",
     "doi": "10.3390/a5020236",
     "title": "Content Sharing Graphs for Deduplication-Enabled Storage Systems"
   },
@@ -2188,6 +2432,7 @@
       "Hiroshi Sakamoto",
       "Masayuki Takeda"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/2/214",
     "doi": "10.3390/a5020214",
     "title": "An Online Algorithm for Lightweight Grammar-Based Compression"
   },
@@ -2201,6 +2446,7 @@
       "Hiroaki Iwashita",
       "Shin-ichi Minato"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/2/176",
     "doi": "10.3390/a5020176",
     "title": "Finding All Solutions and Instances of Numberlink and Slitherlink by ZDDs"
   },
@@ -2210,6 +2456,7 @@
       "Fumika Kino",
       "Yushi Uno"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/1/158",
     "doi": "10.3390/a5010158",
     "title": "An Integer Programming Approach to Solving Tantrix on Fixed Boards"
   },
@@ -2220,6 +2467,7 @@
       "Martin L. Demaine",
       "Ryuhei Uehara"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/1/148",
     "doi": "10.3390/a5010148",
     "title": "Any Monotone Function Is Realized by Interlocked Polygons"
   },
@@ -2231,6 +2479,7 @@
       "Ming-Chang Lee",
       "Jia-Chun Lin"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/1/113",
     "doi": "10.3390/a5010113",
     "title": "A Semi-Preemptive Computational Service System with Limited Resources and Dynamic Resource Ranking"
   },
@@ -2240,6 +2489,7 @@
       "Richard A. Olshen",
       "Bala Rajaratnam"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/1/98",
     "doi": "10.3390/a5010098",
     "title": "Successive Standardization of Rectangular Arrays"
   },
@@ -2249,6 +2499,7 @@
       "Raffaele Pizzolante",
       "Bruno Carpentieri"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/1/76",
     "doi": "10.3390/a5010076",
     "title": "Visualization, Band Ordering and Compression of Hyperspectral Images"
   },
@@ -2258,6 +2509,7 @@
       "Chung-Liang Chang",
       "Ho-Nien Shou"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/1/56",
     "doi": "10.3390/a5010056",
     "title": "Application of Genetic Control with Adaptive Scaling Scheme to Signal Acquisition in Global Navigation Satellite System Receiver"
   },
@@ -2266,6 +2518,7 @@
     "authors": [
       "Travis Gagie"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/1/50",
     "doi": "10.3390/a5010050",
     "title": "A Note on Sequence Prediction over Large Alphabets"
   },
@@ -2277,6 +2530,7 @@
       "Michael W. Marcellin",
       "Joan Serra-Sagrist\u00e0"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/1/30",
     "doi": "10.3390/a5010030",
     "title": "Standard and Specific Compression Techniques for DNA Microarray Images"
   },
@@ -2292,6 +2546,7 @@
       "Toshiyuki Tanaka",
       "Koichi Yamazaki"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/1/18",
     "doi": "10.3390/a5010018",
     "title": "How to Solve the Torus Puzzle"
   },
@@ -2304,6 +2559,7 @@
       "James A. Storer",
       "Giovanni Motta"
     ],
+    "url": "http://www.mdpi.com/1999-4893/5/1/1",
     "doi": "10.3390/a5010001",
     "title": "Compression-Based Tools for Navigation with an Image Database"
   },
@@ -2312,6 +2568,7 @@
     "authors": [
       "John Kieffer"
     ],
+    "url": "http://www.mdpi.com/1999-4893/4/4/307",
     "doi": "10.3390/a4040307",
     "title": "A Catalog of Self-Affine Hierarchical Entropy Functions"
   },
@@ -2321,6 +2578,7 @@
       "Tobias Marschall",
       "Sven Rahmann"
     ],
+    "url": "http://www.mdpi.com/1999-4893/4/4/285",
     "doi": "10.3390/a4040285",
     "title": "An Algorithm to Compute the Character Access Count Distribution for Pattern Matching Algorithms"
   },
@@ -2332,6 +2590,7 @@
       "Matthias Gall\u00e9",
       "Gabriel Infante-Lopez"
     ],
+    "url": "http://www.mdpi.com/1999-4893/4/4/262",
     "doi": "10.3390/a4040262",
     "title": "The Smallest Grammar Problem as Constituents Choice and Minimal Grammar Parsing"
   },
@@ -2341,6 +2600,7 @@
       "Jose Miguel Tarongi",
       "Adriano Camps"
     ],
+    "url": "http://www.mdpi.com/1999-4893/4/4/239",
     "doi": "10.3390/a4040239",
     "title": "Radio Frequency Interference Detection and Mitigation Algorithms Based on Spectrogram Analysis"
   },
@@ -2350,6 +2610,7 @@
       "Frank Weinberg",
       "Markus E. Nebel"
     ],
+    "url": "http://www.mdpi.com/1999-4893/4/4/223",
     "doi": "10.3390/a4040223",
     "title": "Applying Length-Dependent Stochastic Context-Free Grammars to RNA Secondary Structure Prediction"
   },
@@ -2361,6 +2622,7 @@
       "Ho-Leung Chan",
       "Tak-Wah Lam"
     ],
+    "url": "http://www.mdpi.com/1999-4893/4/3/200",
     "doi": "10.3390/a4030200",
     "title": "Approximating Frequent Items in Asynchronous Data Stream over a Sliding Window"
   },
@@ -2369,6 +2631,7 @@
     "authors": [
       "Sergio De Agostino"
     ],
+    "url": "http://www.mdpi.com/1999-4893/4/3/183",
     "doi": "10.3390/a4030183",
     "title": "Lempel\u2013Ziv Data Compression on Parallel and\u00a0Distributed Systems"
   },
@@ -2383,6 +2646,7 @@
       "Jose Barbosa",
       "Rita Castro"
     ],
+    "url": "http://www.mdpi.com/1999-4893/4/3/155",
     "doi": "10.3390/a4030155",
     "title": "Radio-Frequency Interference Detection and Mitigation Algorithms for Synthetic Aperture Radiometers"
   },
@@ -2392,6 +2656,7 @@
       "Olga C. Santos",
       "Jesus G. Boticario"
     ],
+    "url": "http://www.mdpi.com/1999-4893/4/2/131",
     "doi": "10.3390/a4030131",
     "title": "Requirements for Semantic Educational Recommender Systems in Formal E-Learning Scenarios"
   },
@@ -2405,6 +2670,7 @@
       "Feng Pan",
       "Patrick Talou"
     ],
+    "url": "http://www.mdpi.com/1999-4893/4/2/115",
     "doi": "10.3390/a4020115",
     "title": "Alternatives to the Least Squares Solution to Peelle\u2019s Pertinent Puzzle"
   },
@@ -2413,6 +2679,7 @@
     "authors": [
       "Jacques Touboul"
     ],
+    "url": "http://www.mdpi.com/1999-4893/4/2/87",
     "doi": "10.3390/a4020087",
     "title": "Goodness-of-Fit Tests For Elliptical and Independent Copulas through Projection Pursuit"
   },
@@ -2421,6 +2688,7 @@
     "authors": [
       "Viet Hung Nguyen"
     ],
+    "url": "http://www.mdpi.com/1999-4893/4/2/75",
     "doi": "10.3390/a4020075",
     "title": "Approximating the Minimum Tour Cover of a Digraph"
   },
@@ -2430,6 +2698,7 @@
       "Shmuel T. Klein",
       "Dana Shapira"
     ],
+    "url": "http://www.mdpi.com/1999-4893/4/1/61",
     "doi": "10.3390/a4010061",
     "title": "Compressed Matching in Dictionaries"
   },
@@ -2439,6 +2708,7 @@
       "Dana Shapira",
       "James A. Storer"
     ],
+    "url": "http://www.mdpi.com/1999-4893/4/1/40",
     "doi": "10.3390/a4010040",
     "title": "Edit Distance with Block Deletions"
   },
@@ -2451,6 +2721,7 @@
       "Feng Pan",
       "Nicolas Hengartner"
     ],
+    "url": "http://www.mdpi.com/1999-4893/4/1/28",
     "doi": "10.3390/a4010028",
     "title": "Defense of the Least Squares Solution to Peelle\u2019s Pertinent Puzzle"
   },
@@ -2461,6 +2732,7 @@
       "Robert Castellano",
       "Derek Olson"
     ],
+    "url": "http://www.mdpi.com/1999-4893/4/1/16",
     "doi": "10.3390/a4010016",
     "title": "Quantification of the Variability of Continuous Glucose Monitoring Data"
   },
@@ -2470,6 +2742,7 @@
       "Tatsuie Tsukiji",
       "Takeo Hagiwara"
     ],
+    "url": "http://www.mdpi.com/1999-4893/4/1/1",
     "doi": "10.3390/a4010001",
     "title": "Recognizing the Repeatable Configurations of Time-Reversible Generalized Langton\u2019s Ant Is PSPACE-Hard"
   },
@@ -2478,6 +2751,7 @@
     "authors": [
       "Marcus Hutter"
     ],
+    "url": "http://www.mdpi.com/1999-4893/3/4/329",
     "doi": "10.3390/a3040329",
     "title": "A Complete Theory of Everything (Will Be Subjective)"
   },
@@ -2489,6 +2763,7 @@
       "John E. Lavery",
       "Shu-Cherng Fang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/3/3/311",
     "doi": "10.3390/a3030311",
     "title": "Univariate Cubic L1 Interpolating Splines: Spline Functional, Window Size and Analysis-based Algorithm"
   },
@@ -2500,6 +2775,7 @@
       "Benedetto Piccoli",
       "Antonino Sgalambro"
     ],
+    "url": "http://www.mdpi.com/1999-4893/3/3/294",
     "doi": "10.3390/a3030294",
     "title": "Fluidsim: A Car Traffic Simulation Prototype Based on FluidDynamic"
   },
@@ -2510,6 +2786,7 @@
       "John E. Lavery",
       "Shu-Cherng Fang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/3/3/276",
     "doi": "10.3390/a3030276",
     "title": "Univariate Cubic L1 Interpolating Splines: Analytical Results for Linearity, Convexity and Oscillation on 5-PointWindows"
   },
@@ -2520,6 +2797,7 @@
       "Nira Dyn",
       "Evgeny Lipovetsky"
     ],
+    "url": "http://www.mdpi.com/1999-4893/3/3/265",
     "doi": "10.3390/a3030265",
     "title": "Computation of the Metric Average of 2D Sets with Piecewise Linear Boundaries"
   },
@@ -2528,6 +2806,7 @@
     "authors": [
       "Paul M.B. Vitanyi"
     ],
+    "url": "http://www.mdpi.com/1999-4893/3/3/260",
     "doi": "10.3390/a3030260",
     "title": "Ray Solomonoff, Founding Father of Algorithmic Information Theory"
   },
@@ -2536,6 +2815,7 @@
     "authors": [
       "Grace Solomonoff"
     ],
+    "url": "http://www.mdpi.com/1999-4893/3/3/255",
     "doi": "10.3390/a30302555",
     "title": "Ray Solomonoff (1926-2009)"
   },
@@ -2544,6 +2824,7 @@
     "authors": [
       "Zhivko Nedev"
     ],
+    "url": "http://www.mdpi.com/1999-4893/3/3/244",
     "doi": "10.3390/a3030244",
     "title": "An O(n)-Round Strategy for the Magnus-Derek Game"
   },
@@ -2553,6 +2834,7 @@
       "Sanjay Mehrotra",
       "Zhifeng Li"
     ],
+    "url": "http://www.mdpi.com/1999-4893/3/3/224",
     "doi": "10.3390/a3030224",
     "title": "Segment LLL Reduction of Lattice Bases Using Modular Arithmetic"
   },
@@ -2561,6 +2843,7 @@
     "authors": [
       "Henri Schurz"
     ],
+    "url": "http://www.mdpi.com/1999-4893/3/3/216",
     "doi": "10.3390/a3030216",
     "title": "Algorithmic Solution of Stochastic Differential Equations"
   },
@@ -2571,6 +2854,7 @@
       "Romain Pogorelcnik",
       "Genevi\u00e8ve Simonet"
     ],
+    "url": "http://www.mdpi.com/1999-4893/3/2/197",
     "doi": "10.3390/a3020197",
     "title": "An Introduction to Clique Minimal Separator Decomposition"
   },
@@ -2581,6 +2865,7 @@
       "Anabela Gomes",
       "Ant\u00f3nio Jos\u00e9 Mendes"
     ],
+    "url": "http://www.mdpi.com/1999-4893/3/2/183",
     "doi": "10.3390/a3020183",
     "title": "Integrating New Technologies and Existing Tools to Promote Programming Learning"
   },
@@ -2589,6 +2874,7 @@
     "authors": [
       "Guido R\u00f6\u00dfling"
     ],
+    "url": "http://www.mdpi.com/1999-4893/3/2/168",
     "doi": "10.3390/a3020168",
     "title": "A Family of Tools for Supporting the Learning of Programming"
   },
@@ -2598,6 +2884,7 @@
       "Donald Adjeroh",
       "Fei Nan"
     ],
+    "url": "http://www.mdpi.com/1999-4893/3/2/145",
     "doi": "10.3390/a3020145",
     "title": "Suffix-Sorting via Shannon-Fano-Elias Codes"
   },
@@ -2608,6 +2895,7 @@
       "Shinji Yamamoto",
       "Tsuyoshi Shiina"
     ],
+    "url": "http://www.mdpi.com/1999-4893/3/2/125",
     "doi": "10.3390/a3020125",
     "title": "Recognition of Pulmonary Nodules in Thoracic CT Scans Using 3-D Deformable Object Models of Different Classes"
   },
@@ -2619,6 +2907,7 @@
       "Jean-Paul Bordat",
       "Genevi\u00e8ve Simonet"
     ],
+    "url": "http://www.mdpi.com/1999-4893/3/2/100",
     "doi": "10.3390/a3020100",
     "title": "Graph Extremities Defined by Search Algorithms"
   },
@@ -2629,6 +2918,7 @@
       "Saloua Saidane",
       "Malika Trabelsi"
     ],
+    "url": "http://www.mdpi.com/1999-4893/3/1/92",
     "doi": "10.3390/algor3010092",
     "title": "Base Oils Biodegradability Prediction with Data Mining Techniques"
   },
@@ -2638,6 +2928,7 @@
       "J. \u00c1ngel Vel\u00e1zquez-Iturbide",
       "Antonio P\u00e9rez-Carrasco"
     ],
+    "url": "http://www.mdpi.com/1999-4893/3/1/76",
     "doi": "10.3390/a3010076",
     "title": "InfoVis Interaction Techniques in Animation of Recursive Programs"
   },
@@ -2646,6 +2937,7 @@
     "authors": [
       "Bruno Carpentieri"
     ],
+    "url": "http://www.mdpi.com/1999-4893/3/1/63",
     "doi": "10.3390/a3010063",
     "title": "Interactive Compression of Digital Data"
   },
@@ -2654,6 +2946,7 @@
     "authors": [
       "Yufeng Zheng"
     ],
+    "url": "http://www.mdpi.com/1999-4893/3/1/44",
     "doi": "10.3390/a3010044",
     "title": "Breast Cancer Detection with Gabor Features from Digital Mammograms"
   },
@@ -2666,6 +2959,7 @@
       "Richard Boyes",
       "Gareth Beddoe"
     ],
+    "url": "http://www.mdpi.com/1999-4893/3/1/21",
     "doi": "10.3390/a3010021",
     "title": "A Robust and Fast System for CTC Computer-Aided Detection of Colorectal Lesions"
   },
@@ -2677,6 +2971,7 @@
       "Janne N\u00e4ppi",
       "Hiroyuki Yoshida"
     ],
+    "url": "http://www.mdpi.com/1999-4893/3/1/1",
     "doi": "10.3390/a3010001",
     "title": "A Clinical Decision Support Framework for Incremental Polyps Classification in Virtual Colonoscopy"
   },
@@ -2685,6 +2980,7 @@
     "authors": [
       "Dave Tahmoush"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/4/1503",
     "doi": "10.3390/a2041503",
     "title": "Image Similarity to Improve the Classification of Breast Cancer Images"
   },
@@ -2696,6 +2992,7 @@
       "Jacob Furst",
       "Samuel G. Armato III"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/4/1473",
     "doi": "10.3390/a2041473",
     "title": "Predicting Radiological Panel Opinions Using a Panel of Machine Learning Classifiers"
   },
@@ -2704,6 +3001,7 @@
     "authors": [
       "Michael J. Short"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/4/1449",
     "doi": "10.3390/a2041449",
     "title": "Exact and Heuristic Algorithms for Thrift Cyclic Scheduling"
   },
@@ -2717,6 +3015,7 @@
       "Masayuki Takeda",
       "Ayumi Shinohara"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/4/1429",
     "doi": "10.3390/a2041429",
     "title": "Linear-Time Text Compression by Longest-First Substitution"
   },
@@ -2731,6 +3030,7 @@
       "Tomasz S. Osiejuk",
       "Ebenezer Out-Nyarko"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/4/1410",
     "doi": "10.3390/a2041410",
     "title": "A Framework for Bioacoustic Vocalization Analysis Using Hidden Markov Models"
   },
@@ -2740,6 +3040,7 @@
       "Kuncup Iswandy",
       "Andreas K\u00f6nig"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/4/1368",
     "doi": "10.3390/a2041368",
     "title": "Methodology, Algorithms, and Emerging Tool for Automated Design of Intelligent Integrated Multi-Sensor Systems"
   },
@@ -2754,6 +3055,7 @@
       "Jeffrey R. Alger",
       "Matthew S. Brown"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/4/1350",
     "doi": "10.3390/a2041350",
     "title": "CADrx for GBM Brain Tumors: Predicting Treatment Response from Changes in Diffusion-Weighted MRI"
   },
@@ -2763,6 +3065,7 @@
       "Tamal K. Dey",
       "Joshua A. Levine"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/4/1327",
     "doi": "10.3390/a2041327",
     "title": "Delaunay Meshing of Piecewise Smooth Complexes without Expensive Predicates"
   },
@@ -2775,6 +3078,7 @@
       "Allon Percus",
       "Sarvesh Varatharajan"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/4/1303",
     "doi": "10.3390/a2041303",
     "title": "Incentive Compatible and Globally Efficient Position Based Routing for Selfish Reverse Multicast in Wireless Sensor Networks"
   },
@@ -2783,6 +3087,7 @@
     "authors": [
       "Shu-Kun Lin"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/4/1301",
     "doi": "10.3390/a2041301",
     "title": "Encyclopedia of Algorithms. Edited by Kao, Ming-Yang, Springer-Verlag GmbH, 2008; 1220 pages, 183 figures, 38 tables; Hard Cover. Price: \u20ac 309.- / CHF 479.50.- ISBN 978-0-387-30770-1"
   },
@@ -2792,6 +3097,7 @@
       "Jonathan S. Pitt",
       "Francesco Costanzo"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/4/1281",
     "doi": "10.3390/a2041281",
     "title": "An Adaptive h-Refinement Algorithm for Local Damage Models"
   },
@@ -2803,6 +3109,7 @@
       "Huawei Wang",
       "Kaihuai Qin"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/4/1263",
     "doi": "10.3390/a2041263",
     "title": "Compound Biorthogonal Wavelets on Quadrilaterals and Polar Structures"
   },
@@ -2812,6 +3119,7 @@
       "Adriano Camps",
       "Jos\u00e9 Miguel Tarong\u00ed"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/3/1248",
     "doi": "10.3390/a2031248",
     "title": "RFI Mitigation in Microwave Radiometry Using Wavelets"
   },
@@ -2822,6 +3130,7 @@
       "Eric Delory",
       "Michel Andr\u00e9"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/3/1232",
     "doi": "10.3390/a2031232",
     "title": "Classification of Sperm Whale Clicks (Physeter Macrocephalus) with Gaussian-Kernel-Based Networks"
   },
@@ -2831,6 +3140,7 @@
       "Do Nyeon Kim",
       "K. R. Rao"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/3/1221",
     "doi": "10.3390/a2031221",
     "title": "Multiplication Symmetric Convolution Property for Discrete Trigonometric Transforms"
   },
@@ -2840,6 +3150,7 @@
       "Luca Salvatori",
       "Niccol\u00f2 Tosi"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/3/1177",
     "doi": "10.3390/a2031177",
     "title": "Stefan Problem through Extended Finite Elements: Review and Further Investigations"
   },
@@ -2849,6 +3160,7 @@
       "John Hixon",
       "Yana K. Reshetnyak"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/3/1155",
     "doi": "10.3390/a2031155",
     "title": "Algorithm for the Analysis of Tryptophan Fluorescence Spectra and Their Correlation with Protein Structural Parameters"
   },
@@ -2859,6 +3171,7 @@
       "Antonio L. Bajuelos",
       "In\u00eas Matos"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/3/1137",
     "doi": "10.3390/a2031137",
     "title": "Optimal 2-Coverage of a Polygonal Region in a Sensor Network"
   },
@@ -2870,6 +3183,7 @@
       "Arlindo L. Oliveira",
       "Pedro Morales"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/3/1105",
     "doi": "10.3390/a2031105",
     "title": "Approximate String Matching with Compressed Indexes"
   },
@@ -2879,6 +3193,7 @@
       "Francisco Eugenio",
       "Javier Marcello"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/3/1087",
     "doi": "10.3390/a2031087",
     "title": "Featured-Based Algorithm for the Automated Registration of Multisensorial / Multitemporal Oceanographic Satellite Imagery"
   },
@@ -2890,6 +3205,7 @@
       "Ansgar Gr\u00fcne",
       "Rolf Klein"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/3/1069",
     "doi": "10.3390/a2031069",
     "title": "How Many Lions Are Needed to Clear a Grid?"
   },
@@ -2899,6 +3215,7 @@
       "Weiying Lu",
       "Peter de B. Harrington"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/3/1045",
     "doi": "10.3390/a2031045",
     "title": "Radial Basis Function Cascade Correlation Networks"
   },
@@ -2908,6 +3225,7 @@
       "Alberto Apostolico",
       "Guido Drovandi"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/3/1031",
     "doi": "10.3390/a2031031",
     "title": "Graph Compression by BFS"
   },
@@ -2917,6 +3235,7 @@
       "Mehdi Nikbakht",
       "Garth N. Wells"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/3/1008",
     "doi": "10.3390/a2031008",
     "title": "Automated Modelling of Evolving Discontinuities"
   },
@@ -2925,6 +3244,7 @@
     "authors": [
       "Yanbo Huang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/3/973",
     "doi": "10.3390/algor2030973",
     "title": "Advances in Artificial Neural Networks \u2013 Methodological Development and Application"
   },
@@ -2934,6 +3254,7 @@
       "Shuichi Miyazaki",
       "Kazuya Okamoto"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/3/953",
     "doi": "10.3390/a2030953",
     "title": "Improving the Competitive Ratio of the Online OVSF Code Assignment Problem"
   },
@@ -2945,6 +3266,7 @@
       "Yasuo Yamashita",
       "Daisuke Yamamoto"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/3/925",
     "doi": "10.3390/a2030925",
     "title": "Computer-Aided Diagnosis Systems for Brain Diseases in Magnetic Resonance Images"
   },
@@ -2956,6 +3278,7 @@
       "Gareth Jones",
       "Stuart Parsons"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/3/907",
     "doi": "10.3390/a2030907",
     "title": "Classification of Echolocation Calls from 14 Species of Bat by Support Vector Machines and Ensembles of Neural Networks"
   },
@@ -2964,6 +3287,7 @@
     "authors": [
       "Marcus Hutter"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/3/879",
     "doi": "10.3390/a2030879",
     "title": "Open Problems in Universal Induction & Intelligence"
   },
@@ -2972,6 +3296,7 @@
     "authors": [
       "Radu Mutihac"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/2/850",
     "doi": "10.3390/a2020850",
     "title": "Bayesian Maximum Entropy Based Algorithm for Digital X-ray Mammogram Processing"
   },
@@ -2980,6 +3305,7 @@
     "authors": [
       "Stefano Mariani"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/2/808",
     "doi": "10.3390/a2020808",
     "title": "Failure Assessment of Layered Composites Subject to Impact Loadings: a Finite Element, Sigma-Point Kalman Filter Approach"
   },
@@ -2988,6 +3314,7 @@
     "authors": [
       "Bin Zheng"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/2/828",
     "doi": "10.3390/a2020828",
     "title": "Computer-Aided Diagnosis in Mammography Using Content-Based Image Retrieval Approaches: Current Status and Future Perspectives"
   },
@@ -2998,6 +3325,7 @@
       "Ran Gelles",
       "Tal Mor"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/2/790",
     "doi": "10.3390/a2020790",
     "title": "Security of the Bennett-Brassard Quantum Key Distribution Protocol against Collective Attacks"
   },
@@ -3010,6 +3338,7 @@
       "Riccardo Nifos\u00ed",
       "Valentina Tozzini"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/2/764",
     "doi": "10.3390/a2020764",
     "title": "SDPhound, a Mutual Information-Based Method to Investigate Specificity-Determining Positions"
   },
@@ -3019,6 +3348,7 @@
       "Keqiang Hu",
       "X. Frank Xu"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/2/750",
     "doi": "10.3390/a2020750",
     "title": "Probabilistic Upscaling of Material Failure Using Random Field Models \u2013 A Preliminary Investigation"
   },
@@ -3028,6 +3358,7 @@
       "Lichuan Gui",
       "John M. Seiner"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/2/735",
     "doi": "10.3390/a2020735",
     "title": "Application of an Image Tracking Algorithm in Fire Ant Motion Experiment"
   },
@@ -3036,6 +3367,7 @@
     "authors": [
       "Paolo Vannucci"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/2/710",
     "doi": "10.3390/a2020710",
     "title": "ALE-PSO: An Adaptive Swarm Algorithm to Solve Design Problems of Laminates"
   },
@@ -3050,6 +3382,7 @@
       "Janusz M. Bujnicki",
       "Robert Preissner"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/2/692",
     "doi": "10.3390/a2020692",
     "title": "Fast Structural Alignment of Biomolecules Using a Hash Table, N-Grams and String Descriptors"
   },
@@ -3059,6 +3392,7 @@
       "Tian Liu",
       "Rongling Wu"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/2/667",
     "doi": "10.3390/a2020667",
     "title": "A Bayesian Algorithm for Functional Mapping of Dynamic Complex Traits"
   },
@@ -3068,6 +3402,7 @@
       "Wei Zou",
       "Vladimir V. Tolstikov"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/2/638",
     "doi": "10.3390/a2020638",
     "title": "Pattern Recognition and Pathway Analysis with Genetic Algorithms in Mass Spectrometry Based Metabolomics"
   },
@@ -3077,6 +3412,7 @@
       "Wei-Chin Lin",
       "Glen S. Block"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/2/623",
     "doi": "10.3390/a2020623",
     "title": "Neural Network Modeling to Predict Shelf Life of Greenhouse Lettuce"
   },
@@ -3086,6 +3422,7 @@
       "Matteo Bruggi",
       "Paolo Venini"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/606",
     "doi": "10.3390/a2010606",
     "title": "Mixed Variational Formulations for Micro-cracked Continua in the Multifield Framework"
   },
@@ -3095,6 +3432,7 @@
       "Tung T. Nguyen",
       "Ioannis P. Androulakis"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/582",
     "doi": "10.3390/a2010582",
     "title": "Recent Advances in the Computational Discovery of Transcription Factor Binding Sites"
   },
@@ -3107,6 +3445,7 @@
       "Stan Uryasev",
       "Panos M. Pardalos"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/565",
     "doi": "10.3390/a2010565",
     "title": "Mathematical Programming Techniques for Sensor Networks"
   },
@@ -3117,6 +3456,7 @@
       "MingXi Wan",
       "SuPin Wang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/550",
     "doi": "10.3390/a2010550",
     "title": "Multi-Band Spectral Subtraction Method for Electrolarynx Speech Enhancement"
   },
@@ -3126,6 +3466,7 @@
       "Lichuan Gui",
       "John M. Seiner"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/533",
     "doi": "10.3390/a2010533",
     "title": "An Image Pattern Tracking Algorithm for Time-resolved Measurement of Mini- and Micro-scale Motion of Complex Object"
   },
@@ -3136,6 +3477,7 @@
       "Jessica Castle",
       "W. Kenneth Ward"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/518",
     "doi": "10.3390/a2010518",
     "title": "A Review of Closed-Loop Algorithms for Glycemic Control in the Treatment of Type 1 Diabetes"
   },
@@ -3145,6 +3487,7 @@
       "Stanislav Jakuschev",
       "Daniel Hoffmann"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/498",
     "doi": "10.3390/a2010498",
     "title": "A Novel Algorithm for Macromolecular Epitope Matching"
   },
@@ -3158,6 +3501,7 @@
       "Kai S\u00f8rensen",
       "Robert Shuchman"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/470",
     "doi": "10.3390/a2010470",
     "title": "Semi-empirical Algorithm for the Retrieval of Ecology-Relevant Water Constituents in Various Aquatic Environments"
   },
@@ -3168,6 +3512,7 @@
       "Christopher A. Hunter",
       "Peter Willett"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/448",
     "doi": "10.3390/a2010448",
     "title": "Structural Fingerprints of Transcription Factor Binding Site Regions"
   },
@@ -3177,6 +3522,7 @@
       "Francisco Torrens",
       "Gloria Castellano"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/437",
     "doi": "10.3390/a2010437",
     "title": "Resonance in Interacting Induced-Dipole Polarizing Force Fields: Application to Force-Field Derivatives"
   },
@@ -3187,6 +3533,7 @@
       "Stephan Ederer",
       "Wolfram Gronwald"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/429",
     "doi": "10.3390/a2010429",
     "title": "Protein-Protein Interaction Analysis by Docking"
   },
@@ -3196,6 +3543,7 @@
       "Naz\u0131m Dugan",
       "\u015eakir Erko\u00e7"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/410",
     "doi": "10.3390/a2010410",
     "title": "Genetic Algorithms in Application to the Geometry Optimization of Nanoparticles"
   },
@@ -3207,6 +3555,7 @@
       "Ralf Der",
       "J. Michael Herrmann"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/398",
     "doi": "10.3390/a2010398",
     "title": "A Sensor-Based Learning Algorithm for the Self-Organization of Robot Behavior"
   },
@@ -3215,6 +3564,7 @@
     "authors": [
       "Vladimir V. Arabadzhi"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/361",
     "doi": "10.3390/a2010361",
     "title": "Algorithm for Active Suppression of Radiation and Acoustical Scattering Fields by Some Physical Bodies in Liquids"
   },
@@ -3224,6 +3574,7 @@
       "Tom Burr",
       "Michael Hamada"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/339",
     "doi": "10.3390/a2010339",
     "title": "Radio-Isotope Identification Algorithms for NaI \u03b3 Spectra"
   },
@@ -3232,6 +3583,7 @@
     "authors": [
       "Federico Hahn"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/301",
     "doi": "10.3390/a2010301",
     "title": "Actual Pathogen Detection: Sensors and Algorithms - a Review"
   },
@@ -3244,6 +3596,7 @@
       "Antonio Berlanga",
       "Jose M. Molina"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/282",
     "doi": "10.3390/a2010282",
     "title": "Recognizing Human Activities from Sensors Using Hidden Markov Models Constructed by Feature Selection Techniques"
   },
@@ -3254,6 +3607,7 @@
       "Jos\u00e9 L. Hern\u00e1ndez",
       "Mabel C. S\u00e1nchez"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/259",
     "doi": "10.3390/a2010259",
     "title": "Design of Sensor Networks for Chemical Plants Based on Meta-Heuristics"
   },
@@ -3264,6 +3618,7 @@
       "Alexander A. Fingelkurts",
       "Andrew A. Fingelkurts"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/247",
     "doi": "10.3390/a2010247",
     "title": "Self-organization of Dynamic Distributed Computational Systems Applying Principles of Integrative Activity of Brain Neuronal Assemblies"
   },
@@ -3273,6 +3628,7 @@
       "Alessandro Marzani",
       "Ivan Bartoli"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/227",
     "doi": "10.3390/a2010227",
     "title": "High Frequency Waves Propagating in Octagonal Bars: a Low Cost Computation Algorithm"
   },
@@ -3283,6 +3639,7 @@
       "Joshua A. Speidel",
       "Mihaly Mezei"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/215",
     "doi": "10.3390/a2010215",
     "title": "Automatic Determination of Stepsize Parameters in Monte Carlo Simulation Tested on a Bromodomain-Binding Octapeptide"
   },
@@ -3293,6 +3650,7 @@
       "Katrina Simmons",
       "Alain Laederach"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/200",
     "doi": "10.3390/a2010200",
     "title": "Exhaustive Enumeration of Kinetic Model Topologies for the Analysis of Time-Resolved RNA Folding"
   },
@@ -3304,6 +3662,7 @@
       "Khalil El Arroudi",
       "Geza Joos"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/183",
     "doi": "10.3390/a2010183",
     "title": "The Autonomous Stress Indicator for Remotely Monitoring Power System State and Watching for Potential Instability"
   },
@@ -3316,6 +3675,7 @@
       "Lin Ya-Ping",
       "Li Guang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/158",
     "doi": "10.3390/a2010158",
     "title": "A Survey on Position-Based Routing Algorithms in Wireless Sensor Networks"
   },
@@ -3325,6 +3685,7 @@
       "Sotiris Nikoletseas",
       "Paul G. Spirakis"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/121",
     "doi": "10.3390/a2010121",
     "title": "Probabilistic Distributed Algorithms for Energy Efficient Routing and Tracking in Wireless Sensor Networks"
   },
@@ -3336,6 +3697,7 @@
       "Jos\u00e9 Alvarez",
       "Roberto Rozas"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/108",
     "doi": "10.3390/a2010108",
     "title": "Algorithm for Nanotubes Computer Generation with Different Configurations"
   },
@@ -3345,6 +3707,7 @@
       "Benjamin B. Spratling",
       "Daniele Mortari"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/93",
     "doi": "10.3390/a2010093",
     "title": "A Survey on Star Identification Algorithms"
   },
@@ -3357,6 +3720,7 @@
       "Piero Fariselli",
       "Rita Casadio"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/76",
     "doi": "10.3390/a2010076",
     "title": "On the Reconstruction of Three-dimensional Protein Structures from Contact Maps"
   },
@@ -3369,6 +3733,7 @@
       "Victor Pomponiu",
       "Annamaria Vernone"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/46",
     "doi": "10.3390/a2010046",
     "title": "A Novel Block-based Watermarking Scheme Using the SVD Transform"
   },
@@ -3379,6 +3744,7 @@
       "Fabrizio Pelliccia",
       "Roberta Anniballe"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/31",
     "doi": "10.3390/a2010031",
     "title": "Comparison of Different Neural Network Approaches for the Tropospheric Profiling over the Inter-tropical lands Using GPS Radio Occultation Data"
   },
@@ -3390,6 +3756,7 @@
       "Kazuo Maeda",
       "Takashi Nagasawa"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/19",
     "doi": "10.3390/a2010019",
     "title": "Neural Network Analysis and Evaluation of the Fetal Heart Rate"
   },
@@ -3400,6 +3767,7 @@
       "Roberto Martini",
       "Aldo Ghisi"
     ],
+    "url": "http://www.mdpi.com/1999-4893/2/1/1",
     "doi": "10.3390/a2010001",
     "title": "A Finite Element Flux-Corrected Transport Method for Wave Propagation in Heterogeneous Solids"
   },
@@ -3409,6 +3777,7 @@
       "Sergei V. Trepalin",
       "Alexander V. Yarkov"
     ],
+    "url": "http://www.mdpi.com/1999-4893/1/2/183",
     "doi": "10.3390/a1020183",
     "title": "Hierarchical Clustering of Large Databases and Classification of Antibiotics at High Noise Levels"
   },
@@ -3419,6 +3788,7 @@
       "Arjuna Balasuriya",
       "Subhash Challa"
     ],
+    "url": "http://www.mdpi.com/1999-4893/1/2/153",
     "doi": "10.3390/a1020153",
     "title": "Autonomous Vehicles Navigation with Visual Target Tracking: Technical Approaches"
   },
@@ -3431,6 +3801,7 @@
       "Melinda G. Simon",
       "Cristina E. Davis"
     ],
+    "url": "http://www.mdpi.com/1999-4893/1/2/130",
     "doi": "10.3390/a1020130",
     "title": "Machine Learning: A Crucial Tool for Sensor Design"
   },
@@ -3439,6 +3810,7 @@
     "authors": [
       "Giuseppe Lancia"
     ],
+    "url": "http://www.mdpi.com/1999-4893/1/2/100",
     "doi": "10.3390/a1020100",
     "title": "Mathematical Programming in Computational Biology: an Annotated Bibliography"
   },
@@ -3450,6 +3822,7 @@
       "Anthony Zander",
       "Cornelis Petersen"
     ],
+    "url": "http://www.mdpi.com/1999-4893/1/2/69",
     "doi": "10.3390/a1020069",
     "title": "A Review of Virtual Sensing Algorithms for Active Noise Control"
   },
@@ -3458,6 +3831,7 @@
     "authors": [
       "Gabriel B. Senay"
     ],
+    "url": "http://www.mdpi.com/1999-4893/1/2/52",
     "doi": "10.3390/a1020052",
     "title": "Modeling Landscape Evapotranspiration by Integrating Land Surface Phenology and a Water Balance Algorithm"
   },
@@ -3468,6 +3842,7 @@
       "Yen Kaow Ng",
       "Louxin Zhang"
     ],
+    "url": "http://www.mdpi.com/1999-4893/1/2/43",
     "doi": "10.3390/a1020043",
     "title": "A PTAS For The k-Consensus Structures Problem Under Squared Euclidean Distance"
   },
@@ -3478,6 +3853,7 @@
       "Kazuo Iwama",
       "Jun Kawahara"
     ],
+    "url": "http://www.mdpi.com/1999-4893/1/1/30",
     "doi": "10.3390/a1010030",
     "title": "Randomized Competitive Analysis for Two Server Problems"
   },
@@ -3487,6 +3863,7 @@
       "Andreas Wiese",
       "Evangelos Kranakis"
     ],
+    "url": "http://www.mdpi.com/1999-4893/1/1/2",
     "doi": "10.3390/a1010002",
     "title": "Impact of Locality on Location Aware Unit Disk Graphs"
   },
@@ -3495,6 +3872,7 @@
     "authors": [
       "Kazuo Iwama"
     ],
+    "url": "http://www.mdpi.com/1999-4893/1/1/1",
     "doi": "10.3390/a1010001",
     "title": "Editor's Foreword"
   }
