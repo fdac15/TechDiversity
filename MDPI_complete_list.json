@@ -1,0 +1,2636 @@
+[
+  {
+    "authors": {
+      "Rumen Andonov": [
+        "1"
+      ],
+      "Gunnar W. Klau": [
+        "3"
+      ],
+      "Mathilde Le Boudic-Jamin": [
+        "1"
+      ],
+      "Hristo Djidjev": [
+        "2"
+      ],
+      "Inken Wohlers": [
+        "4",
+        "5"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/8/4/850",
+    "title": "Automatic Classification of Protein Structure Using the Maximum Contact Map Overlap Metric",
+    "date": " 9 October 2015",
+    "doi": "10.3390/a8040850",
+    "institutions": {
+      "3": "Life Sciences, CWI, P.O. Box 94079, 1090 GB Amsterdam, The Netherlands",
+      "1": "INRIA Rennes-Bretagne Atlantique and University of Rennes 1, Campus de Beaulieu, 35042 Rennes Cedex, France",
+      "4": "Genome Informatics, University of Duisburg-Essen, 45147 Essen, Germany",
+      "5": "Platform for Genome Analytics, Institutes of Neurogenetics &amp; for Integrative and Experimental Genomics, University of L\u00fcbeck, 23562 L\u00fcbeck, Germany\n<span style=\"display:block; height:8px;\"></span>\n<div>",
+      "\u2020": "This paper is an extended version of our paper published in Algorithms for Computational Biology. Wohlers, I.; Le Boudic-Jamin, M.; Djidjev, H.; Klau, G. W.; Andonov, R. Exact Protein Structure Classification Using the Maximum Contact Map Overlap Metric, In the Proceeding of the First International Conference, AlCoB 2014, Tarragona, Spain, 1\u20133 July 2014; pp.262\u2013273.",
+      "2": "Los Alamos National Laboratory, Los Alamos, NM 87544, USA"
+    }
+  },
+  {
+    "authors": {
+      "George A. Anastassiou": [
+        "1"
+      ],
+      "Ioannis K. Argyros": [
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/8/4/832",
+    "title": "Newton-Type Methods on Generalized Banach Spaces and Applications in Fractional Calculus",
+    "date": " 9 October 2015",
+    "doi": "10.3390/a8040832",
+    "institutions": {
+      "1": "Department of Mathematical Sciences, University of Memphis, Memphis, TN 38152, USA",
+      "2": "Department of Mathematics Sciences, Cameron University, Lawton, OK 73505, USA"
+    }
+  },
+  {
+    "authors": {
+      "Ramandeep Behl": [
+        "2"
+      ],
+      "Ioannis K. Argyros": [
+        "1"
+      ],
+      "S.S. Motsa": [
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/8/3/645",
+    "title": "Local Convergence of an Optimal Eighth Order Method under Weak Conditions",
+    "date": " 19 August 2015",
+    "doi": "10.3390/a8030645",
+    "institutions": {
+      "1": "Cameron University, Department of Mathematics Sciences Lawton, OK 73505, USA",
+      "2": "School of Mathematics, Statistics and Computer Science, University of KwaZulu-Natal, Private Bag X01, Scottsville, Pietermaritzburg 3209, South Africa"
+    }
+  },
+  {
+    "authors": {
+      "Fei Gao": [
+        "1"
+      ],
+      "Jun Fang": [
+        "3"
+      ],
+      "Hongbin Li": [
+        "2"
+      ],
+      "Lili Guo": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/8/3/621",
+    "title": "One-Bit Quantization and Distributed Detection with an Unknown Scale Parameter",
+    "date": " 11 August 2015",
+    "doi": "10.3390/a8030621",
+    "institutions": {
+      "3": "National Key Laboratory on Communications, University of Electronic Science and Technology of China, Chengdu 611731, China",
+      "1": "College of Information and Communication Engineering, Harbin Engineering University, No.145 Nangang District, Harbin 150001, China",
+      "2": "Department of Electrical and Computer Engineering, Stevens Institute of Technology, Hoboken, NJ 07030, USA"
+    }
+  },
+  {
+    "authors": {
+      "Erchin Serpedin": [
+        "1"
+      ],
+      "Daniel Jeske": [
+        "2"
+      ],
+      "Xu Wang": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/8/3/590",
+    "title": "An Overview of a Class of Clock Synchronization Algorithms for Wireless Sensor Networks: A Statistical Signal Processing Perspective",
+    "date": " 6 August 2015",
+    "doi": "10.3390/a8030590",
+    "institutions": {
+      "1": "Department of Electrical and Computer Engineering, Texas A&amp;M; University, College Station, TX 77843, USA",
+      "2": "Department of Statistics, University of California Riverside, Riverside, CA 92521, USA"
+    }
+  },
+  {
+    "authors": {
+      "Tom Burr": [
+        "1",
+        "\u2020"
+      ],
+      "Alexei Skurikhin": [
+        "2",
+        "\u2020"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/8/3/466",
+    "title": "Conditional Random Fields for Pattern Recognition Applied  to Structured Data",
+    "date": " 14 July 2015",
+    "doi": "10.3390/a8030466",
+    "institutions": {
+      "\u2020": "These authors contributed equally to this work.",
+      "1": "Statistical Sciences, Los Alamos National Laboratory, Los Alamos, NM 87544-87545, USA",
+      "2": "Space Data Systems, Los Alamos National Laboratory, Los Alamos, NM 87544-87545, USA"
+    }
+  },
+  {
+    "authors": {
+      "Ian Parberry": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/8/3/459",
+    "title": "Solving the (n2 \u2212 1)-Puzzle with 8/3 n3 Expected Moves",
+    "date": " 10 July 2015",
+    "doi": "10.3390/a8030459",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Natarajan Meghanathan": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/8/3/435",
+    "title": "A Benchmarking Algorithm to Determine Minimum Aggregation Delay for Data Gathering Trees and an Analysis of the Diameter-Aggregation Delay Tradeoff",
+    "date": " 10 July 2015",
+    "doi": "10.3390/a8030435",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Marius Nicolae": [],
+      "Sanguthevar Rajasekaran": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/8/2/248",
+    "title": "On String Matching with Mismatches",
+    "date": " 26 May 2015",
+    "doi": "10.3390/a8020248",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Mihaly Mezei": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/8/2/92",
+    "title": "Statistical Properties of Protein-Protein Interfaces",
+    "date": " 2 April 2015",
+    "doi": "10.3390/a8020092",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Zhibin Deng": [
+        "1",
+        "2"
+      ],
+      "Jian Luo": [
+        "2"
+      ],
+      "John E. Lavery": [
+        "2",
+        "3"
+      ],
+      "Shu-Cherng Fang": [
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/7/3/429",
+    "title": "\u21131 Major Component Detection and Analysis (\u21131 MCDA) in Three and Higher Dimensional Spaces",
+    "date": " 19 August 2014",
+    "doi": "10.3390/a7030429",
+    "institutions": {
+      "3": "Mathematical Sciences Division and Computing Sciences Division, Army Research Office, Army Research Laboratory, P.O. Box 12211, Research Triangle Park, NC 27709-2211, USA",
+      "1": "School of Management, Chinese Academy of Sciences, Beijing 100190, China",
+      "2": "Department of Industrial and Systems Engineering, North Carolina State University, Raleigh, NC 27695-7906, USA"
+    }
+  },
+  {
+    "authors": {
+      "Neil E. Wilson": [
+        "2"
+      ],
+      "M. Albert Thomas": [
+        "1",
+        "2"
+      ],
+      "Brian L. Burns": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/7/3/276",
+    "title": "Group Sparse Reconstruction of Multi-Dimensional Spectroscopic Imaging in Human Brain in vivo",
+    "date": " 26 June 2014",
+    "doi": "10.3390/a7030276",
+    "institutions": {
+      "1": "Department of Biomedical Engineering, UCLA, Los Angeles, CA 90025, USA",
+      "2": "Bio-Medical Physics IDP, UCLA, Los Angeles, CA 90025, USA"
+    }
+  },
+  {
+    "authors": {
+      "Jie Lin": [
+        "1"
+      ],
+      "Donald Adjeroh": [
+        "2"
+      ],
+      "Yue Jiang": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/7/2/253",
+    "title": "A Faster Quick Search Algorithm",
+    "date": " 23 June 2014",
+    "doi": "10.3390/a7020253",
+    "institutions": {
+      "1": "Faculty of Software, Fujian Normal University, Fuzhou 350108, China",
+      "2": "Lane Department of Computer Science and Electrical Engineering, West Virginia University, Morgantown, WV 26506, USA"
+    }
+  },
+  {
+    "authors": {
+      "Vijay Bhuse": [
+        "3"
+      ],
+      "Changyong Jung": [
+        "1"
+      ],
+      "Suk Jin Lee": [
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/7/1/145",
+    "title": "The Minimum Scheduling Time for Convergecast in Wireless Sensor Networks",
+    "date": " 17 March 2014",
+    "doi": "10.3390/a7010145",
+    "institutions": {
+      "3": "Department of Computing, East Tennessee State University, POB 70711, Johnson City, TN 37614, USA",
+      "1": "Computer and Information Science, ECPI University, 1001 Omni Blvd., Newport News,  VA 23606, USA",
+      "2": "Computer Science Department, Texas A&amp;M; University-Texarkana, 7101 University Ave, Texarkana, TX 75503, USA"
+    }
+  },
+  {
+    "authors": {
+      "Shibdas Bandyopadhyay": [
+        "1"
+      ],
+      "Sanguthevar Rajasekaran": [
+        "3"
+      ],
+      "Sartaj Sahni": [
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/6/4/805",
+    "title": "PMS6MC: A Multicore Algorithm for Motif Discovery",
+    "date": " 18 November 2013",
+    "doi": "10.3390/a6040805",
+    "institutions": {
+      "3": "Department of CSE, University of Connecticut, Storrs, CT 06269, USA",
+      "1": "VMware Inc, 3401 Hillview Avenue, Palo Alto, CA 94304, USA",
+      "2": "Department of CISE, University of Florida, Gainesville, FL 32611, USA"
+    }
+  },
+  {
+    "authors": {
+      "Francesca Rossi": [
+        "2"
+      ],
+      "Toby Walsh": [
+        "4"
+      ],
+      "K. Brent Venable": [
+        "3"
+      ],
+      "Maria Silvia Pini": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/6/4/782",
+    "title": "Stability, Optimality and Manipulation in Matching Problems with Weighted Preferences",
+    "date": " 18 November 2013",
+    "doi": "10.3390/a6040782",
+    "institutions": {
+      "3": "Department of Computer Science, Tulane University and IHMC, New Orleans, LA 70118, USA",
+      "1": "Department of Information Engineering, University of Padova, Padova 35131, Italy",
+      "4": "NICTA and UNSW, Sydney, NSW 1466, Australia",
+      "2": "Department of Mathematics, University of Padova, Padova 35121, Italy"
+    }
+  },
+  {
+    "authors": {
+      "Yuan Xue": [],
+      "Yunhui Fu": [],
+      "Bin Fu": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/6/4/636",
+    "title": "Sublinear Time Motif Discovery from Multiple Sequences",
+    "date": " 14 October 2013",
+    "doi": "10.3390/a6040636",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Francesca Rossi": [
+        "1"
+      ],
+      "Toby Walsh": [
+        "3"
+      ],
+      "Mirco Gelain": [
+        "1"
+      ],
+      "K. Brent Venable": [
+        "2"
+      ],
+      "Maria Silvia Pini": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/6/4/591",
+    "title": "Local Search Approaches in Stable Matching Problems",
+    "date": " 3 October 2013",
+    "doi": "10.3390/a6040591",
+    "institutions": {
+      "3": "NICTA and UNSW, Sydney, NSW 1466, Australia",
+      "1": "University of Padova, Padova 35131, Italy",
+      "2": "Tulane University and IHMC, New Orleans, LA, USA"
+    }
+  },
+  {
+    "authors": {
+      "Nicholas S. Flann": [
+        "1",
+        "4",
+        "5"
+      ],
+      "Ahmadreza Ghaffarizadeh": [
+        "1"
+      ],
+      "Mehdi Eftekhari": [
+        "2"
+      ],
+      "Ali K. Esmailizadeh": [
+        "3"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/6/3/546",
+    "title": "Quantitative Trait Loci Mapping Problem: An Extinction-Based Multi-Objective Evolutionary Algorithm Approach",
+    "date": " 2 September 2013",
+    "doi": "10.3390/a6030546",
+    "institutions": {
+      "3": "Department of Animal Science, Shahid Bahonar University of Kerman, Kerman 76169-14111, Iran",
+      "1": "Department of Computer Science, Utah State University, Logan, UT 84341, USA",
+      "4": "Institute for Systems Biology, Seattle, WA 98109, USA",
+      "5": "Synthetic Biomanufacturing Institute, Logan, UT 84322, USA",
+      "2": "Department of Computer Engineering, Shahid Bahonar University of Kerman, Kerman 76169-14111, Iran"
+    }
+  },
+  {
+    "authors": {
+      "Filippo Utro": [
+        "1"
+      ],
+      "Pascal Flament": [
+        "2"
+      ],
+      "Zivan Karaman": [
+        "2"
+      ],
+      "Laxmi Parida": [
+        "1"
+      ],
+      "Claude Lebreton": [
+        "2"
+      ],
+      "Niina Haiminen": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/6/3/430",
+    "title": "Efficient in silico Chromosomal Representation of Populations via Indexing Ancestral Genomes",
+    "date": " 30 July 2013",
+    "doi": "10.3390/a6030430",
+    "institutions": {
+      "1": "Computational Biology Center, IBM T. J. Watson Research, Yorktown Heights, NY 10598, USA",
+      "2": "Limagrain Europe, Centre de Recherche de Chappes, CS 3911, Route d'Ennezat, Chappes 63720, France"
+    }
+  },
+  {
+    "authors": {
+      "Christine T. Cheng": [
+        "1"
+      ],
+      "Eric McDermid": [
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/6/3/383",
+    "title": "Maximum Locally Stable Matchings",
+    "date": " 24 June 2013",
+    "doi": "10.3390/a6030383",
+    "institutions": {
+      "1": "Department of Computer Science, University of Wisconsin-Milwaukee, 3200 N. Cramer Street, Milwaukee, WI 53211, USA",
+      "2": "21CT, 6011 West Courtyard Drive, Austin, TX 78730, USA"
+    }
+  },
+  {
+    "authors": {
+      "Marcos L\u00f3pez de Prado": [
+        "1",
+        "3"
+      ],
+      "David H. Bailey": [
+        "1",
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/6/1/169",
+    "title": "An Open-Source Implementation of the Critical-Line Algorithm for Portfolio Optimization",
+    "date": " 22 March 2013",
+    "doi": "10.3390/a6010169",
+    "institutions": {
+      "3": "Hess Energy Trading Company, 1185 Avenue of the Americas, New York, NY 10036, USA",
+      "1": "Lawrence Berkeley National Laboratory, 1 Cyclotron Road, Berkeley, CA 94720, USA",
+      "2": "Department of Computer Science, University of California, Davis, CA 95616, USA"
+    }
+  },
+  {
+    "authors": {
+      "Jason T. Isaacs": [],
+      "Jo\u00e3o P. Hespanha": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/6/1/84",
+    "title": "Dubins Traveling Salesman Problem with Neighborhoods: A Graph-Based Approach",
+    "date": " 4 February 2013",
+    "doi": "10.3390/a6010084",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Qingwei Jin": [
+        "1",
+        "3"
+      ],
+      "Shu-Cherng Fang": [
+        "1"
+      ],
+      "John E. Lavery": [
+        "1",
+        "4"
+      ],
+      "Ye Tian": [
+        "1",
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/6/1/12",
+    "title": "\u21131 Major Component Detection and Analysis (\u21131 MCDA): Foundations in Two Dimensions",
+    "date": " 17 January 2013",
+    "doi": "10.3390/a6010012",
+    "institutions": {
+      "3": "Department of Management Science and Engineering, Zhejiang University, Hangzhou, 310058, China",
+      "1": "Department of Industrial and Systems Engineering, North Carolina State University, Raleigh, NC27695-7906, USA",
+      "4": "Mathematical Sciences Division and Computing Sciences Division, Army Research Office, Army Research Laboratory, P.O. Box 12211, Research Triangle Park, NC 27709-2211, USA",
+      "2": "School of Business Administration, Southwestern University of Finance and Economics, Chengdu,610074, China"
+    }
+  },
+  {
+    "authors": {
+      "L\u00eddia Rejt\u00f5": [
+        "2",
+        "4"
+      ],
+      "Tam\u00e1s F. M\u00f3ri": [
+        "1"
+      ],
+      "G\u00e1bor Tusn\u00e1dy": [
+        "2"
+      ],
+      "J\u00e1nos Koml\u00f3s": [
+        "3"
+      ],
+      "P\u00e9ter Hussami": [
+        "2"
+      ],
+      "Vill\u00f5 Csisz\u00e1r": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/5/4/629",
+    "title": "Testing Goodness of Fit of Random Graph Models",
+    "date": " 6 December 2012",
+    "doi": "10.3390/a5040629",
+    "institutions": {
+      "3": "Department of Mathematics, Rutgers University, New Brunswick, NJ 08901, USA",
+      "1": "Department of Probability Theory and Statistics, E\u00f6tv\u00f6s Lor\u00e1nd University, Budapest, 1053, Hungary",
+      "4": "Statistics Program, University of Delaware, Newark, DE 19716, USA",
+      "2": "Alfr\u00e9d R\u00e9nyi Mathematical Institute of the Hungarian Academy of Sciences, Budapest, 1053, Hungary"
+    }
+  },
+  {
+    "authors": {
+      "Michael W. Berry": [
+        "1"
+      ],
+      "Benjamin W. Martin": [
+        "1"
+      ],
+      "Bruce E. Kiefer": [
+        "2"
+      ],
+      "Denise R. Koessler": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/5/4/490",
+    "title": "The Effects of Tabular-Based Content Extraction on Patent Document Clustering",
+    "date": " 22 October 2012",
+    "doi": "10.3390/a5040490",
+    "institutions": {
+      "1": "EECS Department, Min H. Kao Building Suite 401, University of Tennessee, 1520 Middle Drive, Knoxville, TN 37996, USA",
+      "2": "Catalyst Repository Systems, 1860 Blake Street, 7th Floor, Denver, CO 80202, USA"
+    }
+  },
+  {
+    "authors": {
+      "Jaideep Srivastava": [],
+      "Amogh Mahapatra": [],
+      "Nisheeth Srivastava": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/5/4/469",
+    "title": "Contextual Anomaly Detection in Text Data",
+    "date": " 19 October 2012",
+    "doi": "10.3390/a5040469",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "John E. Lavery": [
+        "1",
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/5/4/421",
+    "title": "Univariate Lp and \u026d p Averaging, 0 < p < 1, in Polynomial Time by Utilization of Statistical Structure",
+    "date": " 5 October 2012",
+    "doi": "10.3390/a5040421",
+    "institutions": {
+      "1": "Mathematical Sciences Division and Computing Sciences Division, Army Research Office, Army Research Laboratory, P.O. Box 12211, Research Triangle Park, NC 27709-2211, USA",
+      "2": "Edward P. Fitts Department of Industrial and Systems Engineering, North Carolina State University, Raleigh, NC 27695-7906, USA"
+    }
+  },
+  {
+    "authors": {
+      "Peter A. Rankel": [
+        "1"
+      ],
+      "Judith D. Schlesinger": [
+        "2"
+      ],
+      "John M. Conroy": [
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/5/4/398",
+    "title": "Better Metrics to Automatically Predict the Quality of a Text Summary",
+    "date": " 26 September 2012",
+    "doi": "10.3390/a5040398",
+    "institutions": {
+      "1": "Statistics Program, Department of Mathematics, University of Maryland, College Park, MD 20742, USA",
+      "2": "Center for Computing Sciences, Institute for Defense Analyses, 17100 Science Drive, Bowie, MD 20715, USA"
+    }
+  },
+  {
+    "authors": {
+      "Yaakov Malinovsky": [],
+      "Jacob Kogan": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/5/3/379",
+    "title": "Monitoring Threshold Functions over Distributed Data Streams with Node Dependent Constraints",
+    "date": " 18 September 2012",
+    "doi": "10.3390/a5030379",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Linwood W. Jones": [
+        "1"
+      ],
+      "William N. Junek": [
+        "1"
+      ],
+      "Mark T. Woods": [
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/5/3/330",
+    "title": "Use of Logistic Regression for Forecasting Short-Term Volcanic Activity",
+    "date": " 22 August 2012",
+    "doi": "10.3390/a5030330",
+    "institutions": {
+      "1": "Central Florida Remote Sensing Laboratory, School of Electrical Engineering and Computer Science, University of Central Florida, Box-162450, Orlando, FL 32816-2450, USA",
+      "2": "Graduate Faculty Scholar, School of Electrical Engineering and Computer Science, University of Central Florida, Box-162450, Orlando, FL 32816-2450, USA"
+    }
+  },
+  {
+    "authors": {
+      "Michael Barnathan": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/5/3/318",
+    "title": "Mammographic Segmentation Using WaveCluster",
+    "date": " 10 August 2012",
+    "doi": "10.3390/a5030318",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Maohua Lu": [],
+      "Cornel Constantinescu": [],
+      "Prasenjit Sarkar": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/5/2/236",
+    "title": "Content Sharing Graphs for Deduplication-Enabled Storage Systems",
+    "date": " 10 April 2012",
+    "doi": "10.3390/a5020236",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Ryuhei Uehara": [
+        "2"
+      ],
+      "Erik D. Demaine": [
+        "1"
+      ],
+      "Martin L. Demaine": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/5/1/148",
+    "title": "Any Monotone Function Is Realized by Interlocked Polygons",
+    "date": " 19 March 2012",
+    "doi": "10.3390/a5010148",
+    "institutions": {
+      "1": "Computer Science and Artificial Intelligence Lab, Massachusetts Institute of Technology, MA 02139,USA",
+      "2": "School of Information Science, Japan Advanced Institute of Science and Technology, Ishikawa 923-1292, Japan"
+    }
+  },
+  {
+    "authors": {
+      "Bala Rajaratnam": [
+        "3",
+        "4",
+        "5"
+      ],
+      "Richard A. Olshen": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/5/1/98",
+    "title": "Successive Standardization of Rectangular Arrays",
+    "date": " 29 February 2012",
+    "doi": "10.3390/a5010098",
+    "institutions": {
+      "3": "Department of Statistics, Stanford University, Sequoia Hall, 390 Serra Mall, Stanford, CA 94305-4065, USA",
+      "1": "Department of Health Research and Policy\u2014Biostatistics, HRP Redwood Building, Stanford University School of Medicine, Stanford, CA 94305-5405, USA",
+      "4": "Department of Environmental Earth System Science, Yang and Yamazaki Environment &amp; Energy Building, 473 Via Ortega, Suite 140 Stanford, CA 94305, USA",
+      "5": "The Woods Institute for the Environment, Jerry Yang &amp; Akiko Yamazaki Environment &amp; Energy Building\u2014MC 4205, 473 Via Ortega, Stanford, CA 94305, USA",
+      "2": "Department of Electrical Engineering, Stanford University, Packard Electrical Engineering Building, 350 Serra Mall, Stanford, CA 94305, USA"
+    }
+  },
+  {
+    "authors": {
+      "Miguel Hern\u00e1ndez-Cabronero": [
+        "1"
+      ],
+      "Ian Blanes": [
+        "1"
+      ],
+      "Joan Serra-Sagrist\u00e0": [
+        "1"
+      ],
+      "Michael W. Marcellin": [
+        "1",
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/5/1/30",
+    "title": "Standard and Specific Compression Techniques for DNA Microarray Images",
+    "date": " 14 February 2012",
+    "doi": "10.3390/a5010030",
+    "institutions": {
+      "1": "Department of Information and Communications Engineering, Building Q, Universitat Aut\u00f2noma de Barcelona, Bellaterra, Cerdanyola del Vall\u00e8s, 08193 Barcelona, Spain",
+      "2": "Department of Electrical and Computer Engineering, The University of Arizona, 1230 E Speedway Blvd, Tucson, AZ 85721-0104AZ, USA"
+    }
+  },
+  {
+    "authors": {
+      "Antonella Di Lillo": [
+        "1"
+      ],
+      "Kevin Thomas": [
+        "1"
+      ],
+      "James A. Storer": [
+        "1"
+      ],
+      "Giovanni Motta": [
+        "2"
+      ],
+      "Ajay Daptardar": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/5/1/1",
+    "title": "Compression-Based Tools for Navigation with an Image Database",
+    "date": " 10 January 2012",
+    "doi": "10.3390/a5010001",
+    "institutions": {
+      "1": "Computer Science Department, Brandeis University, Waltham, MA 02454, USA",
+      "2": "Google Incorporated, 1600 Amphitheatre Parkway Mountain View, CA 94043, USA"
+    }
+  },
+  {
+    "authors": {
+      "John Kieffer": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/4/4/307",
+    "title": "A Catalog of Self-Affine Hierarchical Entropy Functions",
+    "date": " 1 November 2011",
+    "doi": "10.3390/a4040307",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Feng Pan": [
+        "4"
+      ],
+      "Tom Burr": [
+        "1"
+      ],
+      "Patrick Talou": [
+        "3"
+      ],
+      "Nicolas Hengartner": [
+        "2"
+      ],
+      "Toshihiko Kawano": [
+        "3"
+      ],
+      "Todd Graves": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/4/2/115",
+    "title": "Alternatives to the Least Squares Solution to Peelle\u2019s Pertinent Puzzle",
+    "date": " 23 June 2011",
+    "doi": "10.3390/a4020115",
+    "institutions": {
+      "3": "Nuclear and Particle Physics, Los Alamos National Laboratory, Los Alamos, NM 87545, USA",
+      "1": "Statistical Sciences, Los Alamos National Laboratory, Los Alamos, NM 87545, USA",
+      "4": "Decision Applications, Los Alamos National Laboratory, Los Alamos, NM 87545, USA",
+      "2": "Information Sciences, Los Alamos National Laboratory, Los Alamos, NM 87545, USA"
+    }
+  },
+  {
+    "authors": {
+      "James A. Storer": [
+        "2"
+      ],
+      "Dana Shapira": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/4/1/40",
+    "title": "Edit Distance with Block Deletions",
+    "date": " 7 March 2011",
+    "doi": "10.3390/a4010040",
+    "institutions": {
+      "1": "Ashkelon Academic College, 12 Ben-Tzvi Street, Ashkelon 78211, Israel",
+      "2": "Brandeis University, 415 South Street, Waltham, MA 02453, USA"
+    }
+  },
+  {
+    "authors": {
+      "Patrick Talou": [
+        "2"
+      ],
+      "Nicolas Hengartner": [
+        "4"
+      ],
+      "Toshihiko Kawano": [
+        "2"
+      ],
+      "Feng Pan": [
+        "3"
+      ],
+      "Tom Burr": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/4/1/28",
+    "title": "Defense of the Least Squares Solution to Peelle\u2019s Pertinent Puzzle",
+    "date": " 15 February 2011",
+    "doi": "10.3390/a4010028",
+    "institutions": {
+      "3": "Decision Applications, Los Alamos National Laboratory, Los Alamos NM, USA",
+      "1": "Statistical Sciences, Los Alamos National Laboratory, Los Alamos NM, USA",
+      "4": "Information Sciences, Los Alamos National Laboratory, Los Alamos NM, USA",
+      "2": "Nuclear and Particle Physics, Los Alamos National Laboratory, Los Alamos NM, USA"
+    }
+  },
+  {
+    "authors": {
+      "Robert Castellano": [
+        "2"
+      ],
+      "Derek Olson": [
+        "3"
+      ],
+      "Edward Aboufadel": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/4/1/16",
+    "title": "Quantification of the Variability of Continuous Glucose Monitoring Data",
+    "date": " 15 February 2011",
+    "doi": "10.3390/a4010016",
+    "institutions": {
+      "3": "Department of Mathematics, University of Minnesota, 206 Church St. S.E., Minneapolis, MN 55455, USA",
+      "1": "Department of Mathematics, Grand Valley State University, Allendale, MI 49401, USA",
+      "2": "Department of Mathematics, Stony Brook University, 203 Arnold Ave, West Babylon, NY 11704, USA"
+    }
+  },
+  {
+    "authors": {
+      "Lu Yu": [
+        "1"
+      ],
+      "Qingwei Jin": [
+        "1"
+      ],
+      "John E. Lavery": [
+        "1",
+        "2"
+      ],
+      "Shu-Cherng Fang": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/3/3/311",
+    "title": "Univariate Cubic L1 Interpolating Splines: Spline Functional, Window Size and Analysis-based Algorithm",
+    "date": " 20 August 2010",
+    "doi": "10.3390/a3030311",
+    "institutions": {
+      "1": "Industrial and Systems Engineering Department, North Carolina State University, Raleigh, NC 27695-7906, USA",
+      "2": "Mathematical Sciences Division, Army Research Office, Army Research Laboratory, P.O. Box 12211, Research Triangle Park, NC 27709-2211, USA"
+    }
+  },
+  {
+    "authors": {
+      "Massimiliano Caramia": [
+        "1"
+      ],
+      "Antonino Sgalambro": [
+        "5"
+      ],
+      "Ciro D\u2019Apice": [
+        "2"
+      ],
+      "Benedetto Piccoli": [
+        "3",
+        "4"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/3/3/294",
+    "title": "Fluidsim: A Car Traffic Simulation Prototype Based on FluidDynamic",
+    "date": " 9 August 2010",
+    "doi": "10.3390/a3030294",
+    "institutions": {
+      "3": "Department of Mathematical Sciences, Rutgers University, Camden, 311 N 5th Street, Camden, NJ 08102, USA",
+      "1": "Dipartimento di Ingegneria dell\u2019Impresa, Universit\u00e0 di Roma \u201cTor Vergata\u201d, Rome, Italy",
+      "4": "Istituto per le Applicazioni del Calcolo \u201dMauro Picone\u201d, CNR, Via dei Taurini 19, Rome, Italy",
+      "5": "Dipartimento di Scienze Statistiche, Sapienza Universit\u00e0 di Roma, Piazzale Aldo Moro 5, 00185 Roma, Italy",
+      "2": "Dipartimento di Informatica e Matematica, Universit\u00e0 di Salerno, Via Ponte Don Melillo, Fisciano (SA), Italy"
+    }
+  },
+  {
+    "authors": {
+      "Qingwei Jin": [
+        "1"
+      ],
+      "John E. Lavery": [
+        "1",
+        "2"
+      ],
+      "Shu-Cherng Fang": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/3/3/276",
+    "title": "Univariate Cubic L1 Interpolating Splines: Analytical Results for Linearity, Convexity and Oscillation on 5-PointWindows",
+    "date": " 30 July 2010",
+    "doi": "10.3390/a3030276",
+    "institutions": {
+      "1": "Industrial and Systems Engineering Department, North Carolina State University, Raleigh, NC 27695-7906, USA",
+      "2": "Mathematical Sciences Division, Army Research Office, Army Research Laboratory, P.O. Box 12211, Research Triangle Park, NC 27709-2211, USA"
+    }
+  },
+  {
+    "authors": {
+      "Grace Solomonoff": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/3/3/255",
+    "title": "Ray Solomonoff (1926-2009)",
+    "date": " 20 July 2010",
+    "doi": "10.3390/a30302555",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Sanjay Mehrotra": [],
+      "Zhifeng Li": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/3/3/224",
+    "title": "Segment LLL Reduction of Lattice Bases Using Modular Arithmetic",
+    "date": " 12 July 2010",
+    "doi": "10.3390/a3030224",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Henri Schurz": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/3/3/216",
+    "title": "Algorithmic Solution of Stochastic Differential Equations",
+    "date": " 1 July 2010",
+    "doi": "10.3390/a3030216",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Donald Adjeroh": [],
+      "Fei Nan": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/3/2/145",
+    "title": "Suffix-Sorting via Shannon-Fano-Elias Codes",
+    "date": " 1 April 2010",
+    "doi": "10.3390/a3020145",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Genevi\u00e8ve Simonet": [
+        "3"
+      ],
+      "Jean-Paul Bordat": [
+        "3"
+      ],
+      "Jean R.S. Blair": [
+        "2"
+      ],
+      "Anne Berry": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/3/2/100",
+    "title": "Graph Extremities Defined by Search Algorithms",
+    "date": " 24 March 2010",
+    "doi": "10.3390/a3020100",
+    "institutions": {
+      "3": "LIRMM, 161, Rue Ada, F-34392 Montpellier, France",
+      "1": "LIMOS, Universit\u00e9 Blaise Pascal, Ensemble scientifique des C\u00e9zeaux, F-63177 Aubi\u00e8re, France",
+      "2": "Department of EE &amp; CS, United States Military Academy, West Point, NY 10996, USA"
+    }
+  },
+  {
+    "authors": {
+      "Rumen Andonov": [
+        "1"
+      ],
+      "Gunnar W. Klau": [
+        "3"
+      ],
+      "Mathilde Le Boudic-Jamin": [
+        "1"
+      ],
+      "Hristo Djidjev": [
+        "2"
+      ],
+      "Inken Wohlers": [
+        "4",
+        "5"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/8/4/850",
+    "title": "Automatic Classification of Protein Structure Using the Maximum Contact Map Overlap Metric",
+    "date": " 9 October 2015",
+    "doi": "10.3390/a8040850",
+    "institutions": {
+      "3": "Life Sciences, CWI, P.O. Box 94079, 1090 GB Amsterdam, The Netherlands",
+      "1": "INRIA Rennes-Bretagne Atlantique and University of Rennes 1, Campus de Beaulieu, 35042 Rennes Cedex, France",
+      "4": "Genome Informatics, University of Duisburg-Essen, 45147 Essen, Germany",
+      "5": "Platform for Genome Analytics, Institutes of Neurogenetics &amp; for Integrative and Experimental Genomics, University of L\u00fcbeck, 23562 L\u00fcbeck, Germany\n<span style=\"display:block; height:8px;\"></span>\n<div>",
+      "\u2020": "This paper is an extended version of our paper published in Algorithms for Computational Biology. Wohlers, I.; Le Boudic-Jamin, M.; Djidjev, H.; Klau, G. W.; Andonov, R. Exact Protein Structure Classification Using the Maximum Contact Map Overlap Metric, In the Proceeding of the First International Conference, AlCoB 2014, Tarragona, Spain, 1\u20133 July 2014; pp.262\u2013273.",
+      "2": "Los Alamos National Laboratory, Los Alamos, NM 87544, USA"
+    }
+  },
+  {
+    "authors": {
+      "George A. Anastassiou": [
+        "1"
+      ],
+      "Ioannis K. Argyros": [
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/8/4/832",
+    "title": "Newton-Type Methods on Generalized Banach Spaces and Applications in Fractional Calculus",
+    "date": " 9 October 2015",
+    "doi": "10.3390/a8040832",
+    "institutions": {
+      "1": "Department of Mathematical Sciences, University of Memphis, Memphis, TN 38152, USA",
+      "2": "Department of Mathematics Sciences, Cameron University, Lawton, OK 73505, USA"
+    }
+  },
+  {
+    "authors": {
+      "Ramandeep Behl": [
+        "2"
+      ],
+      "Ioannis K. Argyros": [
+        "1"
+      ],
+      "S.S. Motsa": [
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/8/3/645",
+    "title": "Local Convergence of an Optimal Eighth Order Method under Weak Conditions",
+    "date": " 19 August 2015",
+    "doi": "10.3390/a8030645",
+    "institutions": {
+      "1": "Cameron University, Department of Mathematics Sciences Lawton, OK 73505, USA",
+      "2": "School of Mathematics, Statistics and Computer Science, University of KwaZulu-Natal, Private Bag X01, Scottsville, Pietermaritzburg 3209, South Africa"
+    }
+  },
+  {
+    "authors": {
+      "Fei Gao": [
+        "1"
+      ],
+      "Jun Fang": [
+        "3"
+      ],
+      "Hongbin Li": [
+        "2"
+      ],
+      "Lili Guo": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/8/3/621",
+    "title": "One-Bit Quantization and Distributed Detection with an Unknown Scale Parameter",
+    "date": " 11 August 2015",
+    "doi": "10.3390/a8030621",
+    "institutions": {
+      "3": "National Key Laboratory on Communications, University of Electronic Science and Technology of China, Chengdu 611731, China",
+      "1": "College of Information and Communication Engineering, Harbin Engineering University, No.145 Nangang District, Harbin 150001, China",
+      "2": "Department of Electrical and Computer Engineering, Stevens Institute of Technology, Hoboken, NJ 07030, USA"
+    }
+  },
+  {
+    "authors": {
+      "Erchin Serpedin": [
+        "1"
+      ],
+      "Daniel Jeske": [
+        "2"
+      ],
+      "Xu Wang": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/8/3/590",
+    "title": "An Overview of a Class of Clock Synchronization Algorithms for Wireless Sensor Networks: A Statistical Signal Processing Perspective",
+    "date": " 6 August 2015",
+    "doi": "10.3390/a8030590",
+    "institutions": {
+      "1": "Department of Electrical and Computer Engineering, Texas A&amp;M; University, College Station, TX 77843, USA",
+      "2": "Department of Statistics, University of California Riverside, Riverside, CA 92521, USA"
+    }
+  },
+  {
+    "authors": {
+      "Tom Burr": [
+        "1",
+        "\u2020"
+      ],
+      "Alexei Skurikhin": [
+        "2",
+        "\u2020"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/8/3/466",
+    "title": "Conditional Random Fields for Pattern Recognition Applied  to Structured Data",
+    "date": " 14 July 2015",
+    "doi": "10.3390/a8030466",
+    "institutions": {
+      "\u2020": "These authors contributed equally to this work.",
+      "1": "Statistical Sciences, Los Alamos National Laboratory, Los Alamos, NM 87544-87545, USA",
+      "2": "Space Data Systems, Los Alamos National Laboratory, Los Alamos, NM 87544-87545, USA"
+    }
+  },
+  {
+    "authors": {
+      "Ian Parberry": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/8/3/459",
+    "title": "Solving the (n2 \u2212 1)-Puzzle with 8/3 n3 Expected Moves",
+    "date": " 10 July 2015",
+    "doi": "10.3390/a8030459",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Natarajan Meghanathan": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/8/3/435",
+    "title": "A Benchmarking Algorithm to Determine Minimum Aggregation Delay for Data Gathering Trees and an Analysis of the Diameter-Aggregation Delay Tradeoff",
+    "date": " 10 July 2015",
+    "doi": "10.3390/a8030435",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Marius Nicolae": [],
+      "Sanguthevar Rajasekaran": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/8/2/248",
+    "title": "On String Matching with Mismatches",
+    "date": " 26 May 2015",
+    "doi": "10.3390/a8020248",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Mihaly Mezei": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/8/2/92",
+    "title": "Statistical Properties of Protein-Protein Interfaces",
+    "date": " 2 April 2015",
+    "doi": "10.3390/a8020092",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Zhibin Deng": [
+        "1",
+        "2"
+      ],
+      "Jian Luo": [
+        "2"
+      ],
+      "John E. Lavery": [
+        "2",
+        "3"
+      ],
+      "Shu-Cherng Fang": [
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/7/3/429",
+    "title": "\u21131 Major Component Detection and Analysis (\u21131 MCDA) in Three and Higher Dimensional Spaces",
+    "date": " 19 August 2014",
+    "doi": "10.3390/a7030429",
+    "institutions": {
+      "3": "Mathematical Sciences Division and Computing Sciences Division, Army Research Office, Army Research Laboratory, P.O. Box 12211, Research Triangle Park, NC 27709-2211, USA",
+      "1": "School of Management, Chinese Academy of Sciences, Beijing 100190, China",
+      "2": "Department of Industrial and Systems Engineering, North Carolina State University, Raleigh, NC 27695-7906, USA"
+    }
+  },
+  {
+    "authors": {
+      "Neil E. Wilson": [
+        "2"
+      ],
+      "M. Albert Thomas": [
+        "1",
+        "2"
+      ],
+      "Brian L. Burns": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/7/3/276",
+    "title": "Group Sparse Reconstruction of Multi-Dimensional Spectroscopic Imaging in Human Brain in vivo",
+    "date": " 26 June 2014",
+    "doi": "10.3390/a7030276",
+    "institutions": {
+      "1": "Department of Biomedical Engineering, UCLA, Los Angeles, CA 90025, USA",
+      "2": "Bio-Medical Physics IDP, UCLA, Los Angeles, CA 90025, USA"
+    }
+  },
+  {
+    "authors": {
+      "Jie Lin": [
+        "1"
+      ],
+      "Donald Adjeroh": [
+        "2"
+      ],
+      "Yue Jiang": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/7/2/253",
+    "title": "A Faster Quick Search Algorithm",
+    "date": " 23 June 2014",
+    "doi": "10.3390/a7020253",
+    "institutions": {
+      "1": "Faculty of Software, Fujian Normal University, Fuzhou 350108, China",
+      "2": "Lane Department of Computer Science and Electrical Engineering, West Virginia University, Morgantown, WV 26506, USA"
+    }
+  },
+  {
+    "authors": {
+      "Vijay Bhuse": [
+        "3"
+      ],
+      "Changyong Jung": [
+        "1"
+      ],
+      "Suk Jin Lee": [
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/7/1/145",
+    "title": "The Minimum Scheduling Time for Convergecast in Wireless Sensor Networks",
+    "date": " 17 March 2014",
+    "doi": "10.3390/a7010145",
+    "institutions": {
+      "3": "Department of Computing, East Tennessee State University, POB 70711, Johnson City, TN 37614, USA",
+      "1": "Computer and Information Science, ECPI University, 1001 Omni Blvd., Newport News,  VA 23606, USA",
+      "2": "Computer Science Department, Texas A&amp;M; University-Texarkana, 7101 University Ave, Texarkana, TX 75503, USA"
+    }
+  },
+  {
+    "authors": {
+      "Shibdas Bandyopadhyay": [
+        "1"
+      ],
+      "Sanguthevar Rajasekaran": [
+        "3"
+      ],
+      "Sartaj Sahni": [
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/6/4/805",
+    "title": "PMS6MC: A Multicore Algorithm for Motif Discovery",
+    "date": " 18 November 2013",
+    "doi": "10.3390/a6040805",
+    "institutions": {
+      "3": "Department of CSE, University of Connecticut, Storrs, CT 06269, USA",
+      "1": "VMware Inc, 3401 Hillview Avenue, Palo Alto, CA 94304, USA",
+      "2": "Department of CISE, University of Florida, Gainesville, FL 32611, USA"
+    }
+  },
+  {
+    "authors": {
+      "Francesca Rossi": [
+        "2"
+      ],
+      "Toby Walsh": [
+        "4"
+      ],
+      "K. Brent Venable": [
+        "3"
+      ],
+      "Maria Silvia Pini": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/6/4/782",
+    "title": "Stability, Optimality and Manipulation in Matching Problems with Weighted Preferences",
+    "date": " 18 November 2013",
+    "doi": "10.3390/a6040782",
+    "institutions": {
+      "3": "Department of Computer Science, Tulane University and IHMC, New Orleans, LA 70118, USA",
+      "1": "Department of Information Engineering, University of Padova, Padova 35131, Italy",
+      "4": "NICTA and UNSW, Sydney, NSW 1466, Australia",
+      "2": "Department of Mathematics, University of Padova, Padova 35121, Italy"
+    }
+  },
+  {
+    "authors": {
+      "Yuan Xue": [],
+      "Yunhui Fu": [],
+      "Bin Fu": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/6/4/636",
+    "title": "Sublinear Time Motif Discovery from Multiple Sequences",
+    "date": " 14 October 2013",
+    "doi": "10.3390/a6040636",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Francesca Rossi": [
+        "1"
+      ],
+      "Toby Walsh": [
+        "3"
+      ],
+      "Mirco Gelain": [
+        "1"
+      ],
+      "K. Brent Venable": [
+        "2"
+      ],
+      "Maria Silvia Pini": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/6/4/591",
+    "title": "Local Search Approaches in Stable Matching Problems",
+    "date": " 3 October 2013",
+    "doi": "10.3390/a6040591",
+    "institutions": {
+      "3": "NICTA and UNSW, Sydney, NSW 1466, Australia",
+      "1": "University of Padova, Padova 35131, Italy",
+      "2": "Tulane University and IHMC, New Orleans, LA, USA"
+    }
+  },
+  {
+    "authors": {
+      "Nicholas S. Flann": [
+        "1",
+        "4",
+        "5"
+      ],
+      "Ahmadreza Ghaffarizadeh": [
+        "1"
+      ],
+      "Mehdi Eftekhari": [
+        "2"
+      ],
+      "Ali K. Esmailizadeh": [
+        "3"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/6/3/546",
+    "title": "Quantitative Trait Loci Mapping Problem: An Extinction-Based Multi-Objective Evolutionary Algorithm Approach",
+    "date": " 2 September 2013",
+    "doi": "10.3390/a6030546",
+    "institutions": {
+      "3": "Department of Animal Science, Shahid Bahonar University of Kerman, Kerman 76169-14111, Iran",
+      "1": "Department of Computer Science, Utah State University, Logan, UT 84341, USA",
+      "4": "Institute for Systems Biology, Seattle, WA 98109, USA",
+      "5": "Synthetic Biomanufacturing Institute, Logan, UT 84322, USA",
+      "2": "Department of Computer Engineering, Shahid Bahonar University of Kerman, Kerman 76169-14111, Iran"
+    }
+  },
+  {
+    "authors": {
+      "Filippo Utro": [
+        "1"
+      ],
+      "Pascal Flament": [
+        "2"
+      ],
+      "Zivan Karaman": [
+        "2"
+      ],
+      "Laxmi Parida": [
+        "1"
+      ],
+      "Claude Lebreton": [
+        "2"
+      ],
+      "Niina Haiminen": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/6/3/430",
+    "title": "Efficient in silico Chromosomal Representation of Populations via Indexing Ancestral Genomes",
+    "date": " 30 July 2013",
+    "doi": "10.3390/a6030430",
+    "institutions": {
+      "1": "Computational Biology Center, IBM T. J. Watson Research, Yorktown Heights, NY 10598, USA",
+      "2": "Limagrain Europe, Centre de Recherche de Chappes, CS 3911, Route d'Ennezat, Chappes 63720, France"
+    }
+  },
+  {
+    "authors": {
+      "Christine T. Cheng": [
+        "1"
+      ],
+      "Eric McDermid": [
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/6/3/383",
+    "title": "Maximum Locally Stable Matchings",
+    "date": " 24 June 2013",
+    "doi": "10.3390/a6030383",
+    "institutions": {
+      "1": "Department of Computer Science, University of Wisconsin-Milwaukee, 3200 N. Cramer Street, Milwaukee, WI 53211, USA",
+      "2": "21CT, 6011 West Courtyard Drive, Austin, TX 78730, USA"
+    }
+  },
+  {
+    "authors": {
+      "Marcos L\u00f3pez de Prado": [
+        "1",
+        "3"
+      ],
+      "David H. Bailey": [
+        "1",
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/6/1/169",
+    "title": "An Open-Source Implementation of the Critical-Line Algorithm for Portfolio Optimization",
+    "date": " 22 March 2013",
+    "doi": "10.3390/a6010169",
+    "institutions": {
+      "3": "Hess Energy Trading Company, 1185 Avenue of the Americas, New York, NY 10036, USA",
+      "1": "Lawrence Berkeley National Laboratory, 1 Cyclotron Road, Berkeley, CA 94720, USA",
+      "2": "Department of Computer Science, University of California, Davis, CA 95616, USA"
+    }
+  },
+  {
+    "authors": {
+      "Jason T. Isaacs": [],
+      "Jo\u00e3o P. Hespanha": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/6/1/84",
+    "title": "Dubins Traveling Salesman Problem with Neighborhoods: A Graph-Based Approach",
+    "date": " 4 February 2013",
+    "doi": "10.3390/a6010084",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Qingwei Jin": [
+        "1",
+        "3"
+      ],
+      "Shu-Cherng Fang": [
+        "1"
+      ],
+      "John E. Lavery": [
+        "1",
+        "4"
+      ],
+      "Ye Tian": [
+        "1",
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/6/1/12",
+    "title": "\u21131 Major Component Detection and Analysis (\u21131 MCDA): Foundations in Two Dimensions",
+    "date": " 17 January 2013",
+    "doi": "10.3390/a6010012",
+    "institutions": {
+      "3": "Department of Management Science and Engineering, Zhejiang University, Hangzhou, 310058, China",
+      "1": "Department of Industrial and Systems Engineering, North Carolina State University, Raleigh, NC27695-7906, USA",
+      "4": "Mathematical Sciences Division and Computing Sciences Division, Army Research Office, Army Research Laboratory, P.O. Box 12211, Research Triangle Park, NC 27709-2211, USA",
+      "2": "School of Business Administration, Southwestern University of Finance and Economics, Chengdu,610074, China"
+    }
+  },
+  {
+    "authors": {
+      "L\u00eddia Rejt\u00f5": [
+        "2",
+        "4"
+      ],
+      "Tam\u00e1s F. M\u00f3ri": [
+        "1"
+      ],
+      "G\u00e1bor Tusn\u00e1dy": [
+        "2"
+      ],
+      "J\u00e1nos Koml\u00f3s": [
+        "3"
+      ],
+      "P\u00e9ter Hussami": [
+        "2"
+      ],
+      "Vill\u00f5 Csisz\u00e1r": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/5/4/629",
+    "title": "Testing Goodness of Fit of Random Graph Models",
+    "date": " 6 December 2012",
+    "doi": "10.3390/a5040629",
+    "institutions": {
+      "3": "Department of Mathematics, Rutgers University, New Brunswick, NJ 08901, USA",
+      "1": "Department of Probability Theory and Statistics, E\u00f6tv\u00f6s Lor\u00e1nd University, Budapest, 1053, Hungary",
+      "4": "Statistics Program, University of Delaware, Newark, DE 19716, USA",
+      "2": "Alfr\u00e9d R\u00e9nyi Mathematical Institute of the Hungarian Academy of Sciences, Budapest, 1053, Hungary"
+    }
+  },
+  {
+    "authors": {
+      "Michael W. Berry": [
+        "1"
+      ],
+      "Benjamin W. Martin": [
+        "1"
+      ],
+      "Bruce E. Kiefer": [
+        "2"
+      ],
+      "Denise R. Koessler": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/5/4/490",
+    "title": "The Effects of Tabular-Based Content Extraction on Patent Document Clustering",
+    "date": " 22 October 2012",
+    "doi": "10.3390/a5040490",
+    "institutions": {
+      "1": "EECS Department, Min H. Kao Building Suite 401, University of Tennessee, 1520 Middle Drive, Knoxville, TN 37996, USA",
+      "2": "Catalyst Repository Systems, 1860 Blake Street, 7th Floor, Denver, CO 80202, USA"
+    }
+  },
+  {
+    "authors": {
+      "Jaideep Srivastava": [],
+      "Amogh Mahapatra": [],
+      "Nisheeth Srivastava": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/5/4/469",
+    "title": "Contextual Anomaly Detection in Text Data",
+    "date": " 19 October 2012",
+    "doi": "10.3390/a5040469",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "John E. Lavery": [
+        "1",
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/5/4/421",
+    "title": "Univariate Lp and \u026d p Averaging, 0 < p < 1, in Polynomial Time by Utilization of Statistical Structure",
+    "date": " 5 October 2012",
+    "doi": "10.3390/a5040421",
+    "institutions": {
+      "1": "Mathematical Sciences Division and Computing Sciences Division, Army Research Office, Army Research Laboratory, P.O. Box 12211, Research Triangle Park, NC 27709-2211, USA",
+      "2": "Edward P. Fitts Department of Industrial and Systems Engineering, North Carolina State University, Raleigh, NC 27695-7906, USA"
+    }
+  },
+  {
+    "authors": {
+      "Peter A. Rankel": [
+        "1"
+      ],
+      "Judith D. Schlesinger": [
+        "2"
+      ],
+      "John M. Conroy": [
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/5/4/398",
+    "title": "Better Metrics to Automatically Predict the Quality of a Text Summary",
+    "date": " 26 September 2012",
+    "doi": "10.3390/a5040398",
+    "institutions": {
+      "1": "Statistics Program, Department of Mathematics, University of Maryland, College Park, MD 20742, USA",
+      "2": "Center for Computing Sciences, Institute for Defense Analyses, 17100 Science Drive, Bowie, MD 20715, USA"
+    }
+  },
+  {
+    "authors": {
+      "Yaakov Malinovsky": [],
+      "Jacob Kogan": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/5/3/379",
+    "title": "Monitoring Threshold Functions over Distributed Data Streams with Node Dependent Constraints",
+    "date": " 18 September 2012",
+    "doi": "10.3390/a5030379",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Linwood W. Jones": [
+        "1"
+      ],
+      "William N. Junek": [
+        "1"
+      ],
+      "Mark T. Woods": [
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/5/3/330",
+    "title": "Use of Logistic Regression for Forecasting Short-Term Volcanic Activity",
+    "date": " 22 August 2012",
+    "doi": "10.3390/a5030330",
+    "institutions": {
+      "1": "Central Florida Remote Sensing Laboratory, School of Electrical Engineering and Computer Science, University of Central Florida, Box-162450, Orlando, FL 32816-2450, USA",
+      "2": "Graduate Faculty Scholar, School of Electrical Engineering and Computer Science, University of Central Florida, Box-162450, Orlando, FL 32816-2450, USA"
+    }
+  },
+  {
+    "authors": {
+      "Michael Barnathan": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/5/3/318",
+    "title": "Mammographic Segmentation Using WaveCluster",
+    "date": " 10 August 2012",
+    "doi": "10.3390/a5030318",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Maohua Lu": [],
+      "Cornel Constantinescu": [],
+      "Prasenjit Sarkar": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/5/2/236",
+    "title": "Content Sharing Graphs for Deduplication-Enabled Storage Systems",
+    "date": " 10 April 2012",
+    "doi": "10.3390/a5020236",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Ryuhei Uehara": [
+        "2"
+      ],
+      "Erik D. Demaine": [
+        "1"
+      ],
+      "Martin L. Demaine": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/5/1/148",
+    "title": "Any Monotone Function Is Realized by Interlocked Polygons",
+    "date": " 19 March 2012",
+    "doi": "10.3390/a5010148",
+    "institutions": {
+      "1": "Computer Science and Artificial Intelligence Lab, Massachusetts Institute of Technology, MA 02139,USA",
+      "2": "School of Information Science, Japan Advanced Institute of Science and Technology, Ishikawa 923-1292, Japan"
+    }
+  },
+  {
+    "authors": {
+      "Bala Rajaratnam": [
+        "3",
+        "4",
+        "5"
+      ],
+      "Richard A. Olshen": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/5/1/98",
+    "title": "Successive Standardization of Rectangular Arrays",
+    "date": " 29 February 2012",
+    "doi": "10.3390/a5010098",
+    "institutions": {
+      "3": "Department of Statistics, Stanford University, Sequoia Hall, 390 Serra Mall, Stanford, CA 94305-4065, USA",
+      "1": "Department of Health Research and Policy\u2014Biostatistics, HRP Redwood Building, Stanford University School of Medicine, Stanford, CA 94305-5405, USA",
+      "4": "Department of Environmental Earth System Science, Yang and Yamazaki Environment &amp; Energy Building, 473 Via Ortega, Suite 140 Stanford, CA 94305, USA",
+      "5": "The Woods Institute for the Environment, Jerry Yang &amp; Akiko Yamazaki Environment &amp; Energy Building\u2014MC 4205, 473 Via Ortega, Stanford, CA 94305, USA",
+      "2": "Department of Electrical Engineering, Stanford University, Packard Electrical Engineering Building, 350 Serra Mall, Stanford, CA 94305, USA"
+    }
+  },
+  {
+    "authors": {
+      "Miguel Hern\u00e1ndez-Cabronero": [
+        "1"
+      ],
+      "Ian Blanes": [
+        "1"
+      ],
+      "Joan Serra-Sagrist\u00e0": [
+        "1"
+      ],
+      "Michael W. Marcellin": [
+        "1",
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/5/1/30",
+    "title": "Standard and Specific Compression Techniques for DNA Microarray Images",
+    "date": " 14 February 2012",
+    "doi": "10.3390/a5010030",
+    "institutions": {
+      "1": "Department of Information and Communications Engineering, Building Q, Universitat Aut\u00f2noma de Barcelona, Bellaterra, Cerdanyola del Vall\u00e8s, 08193 Barcelona, Spain",
+      "2": "Department of Electrical and Computer Engineering, The University of Arizona, 1230 E Speedway Blvd, Tucson, AZ 85721-0104AZ, USA"
+    }
+  },
+  {
+    "authors": {
+      "Antonella Di Lillo": [
+        "1"
+      ],
+      "Kevin Thomas": [
+        "1"
+      ],
+      "James A. Storer": [
+        "1"
+      ],
+      "Giovanni Motta": [
+        "2"
+      ],
+      "Ajay Daptardar": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/5/1/1",
+    "title": "Compression-Based Tools for Navigation with an Image Database",
+    "date": " 10 January 2012",
+    "doi": "10.3390/a5010001",
+    "institutions": {
+      "1": "Computer Science Department, Brandeis University, Waltham, MA 02454, USA",
+      "2": "Google Incorporated, 1600 Amphitheatre Parkway Mountain View, CA 94043, USA"
+    }
+  },
+  {
+    "authors": {
+      "John Kieffer": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/4/4/307",
+    "title": "A Catalog of Self-Affine Hierarchical Entropy Functions",
+    "date": " 1 November 2011",
+    "doi": "10.3390/a4040307",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Feng Pan": [
+        "4"
+      ],
+      "Tom Burr": [
+        "1"
+      ],
+      "Patrick Talou": [
+        "3"
+      ],
+      "Nicolas Hengartner": [
+        "2"
+      ],
+      "Toshihiko Kawano": [
+        "3"
+      ],
+      "Todd Graves": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/4/2/115",
+    "title": "Alternatives to the Least Squares Solution to Peelle\u2019s Pertinent Puzzle",
+    "date": " 23 June 2011",
+    "doi": "10.3390/a4020115",
+    "institutions": {
+      "3": "Nuclear and Particle Physics, Los Alamos National Laboratory, Los Alamos, NM 87545, USA",
+      "1": "Statistical Sciences, Los Alamos National Laboratory, Los Alamos, NM 87545, USA",
+      "4": "Decision Applications, Los Alamos National Laboratory, Los Alamos, NM 87545, USA",
+      "2": "Information Sciences, Los Alamos National Laboratory, Los Alamos, NM 87545, USA"
+    }
+  },
+  {
+    "authors": {
+      "James A. Storer": [
+        "2"
+      ],
+      "Dana Shapira": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/4/1/40",
+    "title": "Edit Distance with Block Deletions",
+    "date": " 7 March 2011",
+    "doi": "10.3390/a4010040",
+    "institutions": {
+      "1": "Ashkelon Academic College, 12 Ben-Tzvi Street, Ashkelon 78211, Israel",
+      "2": "Brandeis University, 415 South Street, Waltham, MA 02453, USA"
+    }
+  },
+  {
+    "authors": {
+      "Patrick Talou": [
+        "2"
+      ],
+      "Nicolas Hengartner": [
+        "4"
+      ],
+      "Toshihiko Kawano": [
+        "2"
+      ],
+      "Feng Pan": [
+        "3"
+      ],
+      "Tom Burr": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/4/1/28",
+    "title": "Defense of the Least Squares Solution to Peelle\u2019s Pertinent Puzzle",
+    "date": " 15 February 2011",
+    "doi": "10.3390/a4010028",
+    "institutions": {
+      "3": "Decision Applications, Los Alamos National Laboratory, Los Alamos NM, USA",
+      "1": "Statistical Sciences, Los Alamos National Laboratory, Los Alamos NM, USA",
+      "4": "Information Sciences, Los Alamos National Laboratory, Los Alamos NM, USA",
+      "2": "Nuclear and Particle Physics, Los Alamos National Laboratory, Los Alamos NM, USA"
+    }
+  },
+  {
+    "authors": {
+      "Robert Castellano": [
+        "2"
+      ],
+      "Derek Olson": [
+        "3"
+      ],
+      "Edward Aboufadel": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/4/1/16",
+    "title": "Quantification of the Variability of Continuous Glucose Monitoring Data",
+    "date": " 15 February 2011",
+    "doi": "10.3390/a4010016",
+    "institutions": {
+      "3": "Department of Mathematics, University of Minnesota, 206 Church St. S.E., Minneapolis, MN 55455, USA",
+      "1": "Department of Mathematics, Grand Valley State University, Allendale, MI 49401, USA",
+      "2": "Department of Mathematics, Stony Brook University, 203 Arnold Ave, West Babylon, NY 11704, USA"
+    }
+  },
+  {
+    "authors": {
+      "Lu Yu": [
+        "1"
+      ],
+      "Qingwei Jin": [
+        "1"
+      ],
+      "John E. Lavery": [
+        "1",
+        "2"
+      ],
+      "Shu-Cherng Fang": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/3/3/311",
+    "title": "Univariate Cubic L1 Interpolating Splines: Spline Functional, Window Size and Analysis-based Algorithm",
+    "date": " 20 August 2010",
+    "doi": "10.3390/a3030311",
+    "institutions": {
+      "1": "Industrial and Systems Engineering Department, North Carolina State University, Raleigh, NC 27695-7906, USA",
+      "2": "Mathematical Sciences Division, Army Research Office, Army Research Laboratory, P.O. Box 12211, Research Triangle Park, NC 27709-2211, USA"
+    }
+  },
+  {
+    "authors": {
+      "Massimiliano Caramia": [
+        "1"
+      ],
+      "Antonino Sgalambro": [
+        "5"
+      ],
+      "Ciro D\u2019Apice": [
+        "2"
+      ],
+      "Benedetto Piccoli": [
+        "3",
+        "4"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/3/3/294",
+    "title": "Fluidsim: A Car Traffic Simulation Prototype Based on FluidDynamic",
+    "date": " 9 August 2010",
+    "doi": "10.3390/a3030294",
+    "institutions": {
+      "3": "Department of Mathematical Sciences, Rutgers University, Camden, 311 N 5th Street, Camden, NJ 08102, USA",
+      "1": "Dipartimento di Ingegneria dell\u2019Impresa, Universit\u00e0 di Roma \u201cTor Vergata\u201d, Rome, Italy",
+      "4": "Istituto per le Applicazioni del Calcolo \u201dMauro Picone\u201d, CNR, Via dei Taurini 19, Rome, Italy",
+      "5": "Dipartimento di Scienze Statistiche, Sapienza Universit\u00e0 di Roma, Piazzale Aldo Moro 5, 00185 Roma, Italy",
+      "2": "Dipartimento di Informatica e Matematica, Universit\u00e0 di Salerno, Via Ponte Don Melillo, Fisciano (SA), Italy"
+    }
+  },
+  {
+    "authors": {
+      "Qingwei Jin": [
+        "1"
+      ],
+      "John E. Lavery": [
+        "1",
+        "2"
+      ],
+      "Shu-Cherng Fang": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/3/3/276",
+    "title": "Univariate Cubic L1 Interpolating Splines: Analytical Results for Linearity, Convexity and Oscillation on 5-PointWindows",
+    "date": " 30 July 2010",
+    "doi": "10.3390/a3030276",
+    "institutions": {
+      "1": "Industrial and Systems Engineering Department, North Carolina State University, Raleigh, NC 27695-7906, USA",
+      "2": "Mathematical Sciences Division, Army Research Office, Army Research Laboratory, P.O. Box 12211, Research Triangle Park, NC 27709-2211, USA"
+    }
+  },
+  {
+    "authors": {
+      "Grace Solomonoff": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/3/3/255",
+    "title": "Ray Solomonoff (1926-2009)",
+    "date": " 20 July 2010",
+    "doi": "10.3390/a30302555",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Sanjay Mehrotra": [],
+      "Zhifeng Li": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/3/3/224",
+    "title": "Segment LLL Reduction of Lattice Bases Using Modular Arithmetic",
+    "date": " 12 July 2010",
+    "doi": "10.3390/a3030224",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Henri Schurz": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/3/3/216",
+    "title": "Algorithmic Solution of Stochastic Differential Equations",
+    "date": " 1 July 2010",
+    "doi": "10.3390/a3030216",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Donald Adjeroh": [],
+      "Fei Nan": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/3/2/145",
+    "title": "Suffix-Sorting via Shannon-Fano-Elias Codes",
+    "date": " 1 April 2010",
+    "doi": "10.3390/a3020145",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Genevi\u00e8ve Simonet": [
+        "3"
+      ],
+      "Jean-Paul Bordat": [
+        "3"
+      ],
+      "Jean R.S. Blair": [
+        "2"
+      ],
+      "Anne Berry": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/3/2/100",
+    "title": "Graph Extremities Defined by Search Algorithms",
+    "date": " 24 March 2010",
+    "doi": "10.3390/a3020100",
+    "institutions": {
+      "3": "LIRMM, 161, Rue Ada, F-34392 Montpellier, France",
+      "1": "LIMOS, Universit\u00e9 Blaise Pascal, Ensemble scientifique des C\u00e9zeaux, F-63177 Aubi\u00e8re, France",
+      "2": "Department of EE &amp; CS, United States Military Academy, West Point, NY 10996, USA"
+    }
+  },
+  {
+    "authors": {
+      "Saloua Saidane": [
+        "2"
+      ],
+      "Malika Trabelsi": [
+        "1"
+      ],
+      "Sihem Ben Abdelmelek": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/3/1/92",
+    "title": "Base Oils Biodegradability Prediction with Data Mining Techniques",
+    "date": " 23 February 2010",
+    "doi": "10.3390/algor3010092",
+    "institutions": {
+      "1": "University of Bizerte, Bizerte, Zarzouna 7021, Tunisia",
+      "2": "San Diego Mesa College, 7250 Mesa College Drive, Room K202, San Diego, CA 92111, USA"
+    }
+  },
+  {
+    "authors": {
+      "Yufeng Zheng": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/3/1/44",
+    "title": "Breast Cancer Detection with Gabor Features from Digital Mammograms",
+    "date": " 19 January 2010",
+    "doi": "10.3390/a3010044",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Mariette Awad": [
+        "1"
+      ],
+      "Hiroyuki Yoshida": [
+        "3"
+      ],
+      "Yuichi Motai": [
+        "2"
+      ],
+      "Janne N\u00e4ppi": [
+        "3"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/3/1/1",
+    "title": "A Clinical Decision Support Framework for Incremental Polyps Classification in Virtual Colonoscopy",
+    "date": " 4 January 2010",
+    "doi": "10.3390/a3010001",
+    "institutions": {
+      "3": "Department of Radiology, Harvard Medical School and Massachusetts General Hospital, Boston, MA 02114, USA",
+      "1": "Electrical and Computer Engineering Department, American University of Beirut, PO Box 11- 0236, Riad El Solh, Beirut 1107 2020, Lebanon",
+      "2": "School of Engineering, Virginia Commonwealth University, Richmond, VA, USA"
+    }
+  },
+  {
+    "authors": {
+      "Dave Tahmoush": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/4/1503",
+    "title": "Image Similarity to Improve the Classification of Breast Cancer Images",
+    "date": " 1 December 2009",
+    "doi": "10.3390/a2041503",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Jacob Furst": [
+        "1"
+      ],
+      "Dmitriy Zinovev": [
+        "1"
+      ],
+      "Daniela Raicu": [
+        "1"
+      ],
+      "Samuel G. Armato III": [
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/4/1473",
+    "title": "Predicting Radiological Panel Opinions Using a Panel of Machine Learning Classifiers",
+    "date": " 30 November 2009",
+    "doi": "10.3390/a2041473",
+    "institutions": {
+      "1": "Intelligent Multimedia Processing Laboratory, College of Computing and Digital Media, DePaul University, Chicago, IL 60604, USA",
+      "2": "Department of Radiology, The University of Chicago, Chicago, IL 60637, USA"
+    }
+  },
+  {
+    "authors": {
+      "Patrick J. Clemins": [
+        "2"
+      ],
+      "Tomasz S. Osiejuk": [
+        "5"
+      ],
+      "Michael T. Johnson": [
+        "1"
+      ],
+      "Yao Ren": [
+        "1"
+      ],
+      "Sharon Stuart Glaeser": [
+        "4"
+      ],
+      "Michael Darre": [
+        "3"
+      ],
+      "Ebenezer Out-Nyarko": [
+        "3"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/4/1410",
+    "title": "A Framework for Bioacoustic Vocalization Analysis Using Hidden Markov Models",
+    "date": " 18 November 2009",
+    "doi": "10.3390/a2041410",
+    "institutions": {
+      "3": "Animal Sciences, University of Connecticut, Storrs, CT 06269, USA",
+      "1": "Electrical and Computer Engineering, Marquette University, Milwaukee, WI 53201, USA",
+      "4": "Oregon Zoo, Portland, OR 97221, USA",
+      "5": "Department of Behavioural Ecology, Institute of Environmental Biology, Faculty of Biology, Adam Mickiewicz University, Umultowska 89, 61-614 Pozna\u0144, Poland",
+      "2": "American Association for the Advancement of Science, Washington, DC 20005, USA"
+    }
+  },
+  {
+    "authors": {
+      "Jeffrey R. Alger": [
+        "1"
+      ],
+      "Whitney B. Pope": [
+        "1"
+      ],
+      "Jonathan G. Goldin": [
+        "1"
+      ],
+      "Hyun J. Kim": [
+        "1"
+      ],
+      "Matthew S. Brown": [
+        "1"
+      ],
+      "Jing Huo": [
+        "1"
+      ],
+      "Kazunori Okada": [
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/4/1350",
+    "title": "CADrx for GBM Brain Tumors: Predicting Treatment Response from Changes in Diffusion-Weighted MRI",
+    "date": " 16 November 2009",
+    "doi": "10.3390/a2041350",
+    "institutions": {
+      "1": "UCLA Department of Radiological Sciences, 924 Westwood Blvd., Suite 650, Los Angeles, CA 90024, USA",
+      "2": "San Francisco State University Computer Science Department, Thornton Hall 911, 1600 Holloway Avenue, San Francisco, CA 94132-4163, USA"
+    }
+  },
+  {
+    "authors": {
+      "Joshua A. Levine": [],
+      "Tamal K. Dey": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/4/1327",
+    "title": "Delaunay Meshing of Piecewise Smooth Complexes without Expensive Predicates",
+    "date": " 11 November 2009",
+    "doi": "10.3390/a2041327",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Adam Meyerson": [
+        "3"
+      ],
+      "Allon Percus": [
+        "4"
+      ],
+      "Gunes Ercal-Ozkaya": [
+        "2"
+      ],
+      "Stephan Eidenbenz": [
+        "1"
+      ],
+      "Sarvesh Varatharajan": [
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/4/1303",
+    "title": "Incentive Compatible and Globally Efficient Position Based Routing for Selfish Reverse Multicast in Wireless Sensor Networks",
+    "date": " 14 October 2009",
+    "doi": "10.3390/a2041303",
+    "institutions": {
+      "3": "Computer Science,University of California, Los Angeles, Los Angeles, CA 90095, USA",
+      "1": "Discrete Simulation Sciences, Los Alamos National Laboratories, Los Alamos, NM 87545, USA",
+      "4": "Mathematical Sciences, Claremont Graduate University, Claremont, CA 91711, USA",
+      "2": "Electrical Engineering and Computer Science, University of Kansas, Lawrence, KS 66045,USA"
+    }
+  },
+  {
+    "authors": {
+      "Francesco Costanzo": [],
+      "Jonathan S. Pitt": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/4/1281",
+    "title": "An Adaptive h-Refinement Algorithm for Local Damage Models",
+    "date": " 6 October 2009",
+    "doi": "10.3390/a2041281",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "K. R. Rao": [],
+      "Do Nyeon Kim": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/3/1221",
+    "title": "Multiplication Symmetric Convolution Property for Discrete Trigonometric Transforms",
+    "date": " 22 September 2009",
+    "doi": "10.3390/a2031221",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "John Hixon": [],
+      "Yana K. Reshetnyak": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/3/1155",
+    "title": "Algorithm for the Analysis of Tryptophan Fluorescence Spectra and Their Correlation with Protein Structural Parameters",
+    "date": " 16 September 2009",
+    "doi": "10.3390/a2031155",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Weiying Lu": [],
+      "Peter de B. Harrington": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/3/1045",
+    "title": "Radial Basis Function Cascade Correlation Networks",
+    "date": " 27 August 2009",
+    "doi": "10.3390/a2031045",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Guido Drovandi": [
+        "3",
+        "4"
+      ],
+      "Alberto Apostolico": [
+        "1",
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/3/1031",
+    "title": "Graph Compression by BFS",
+    "date": " 25 August 2009",
+    "doi": "10.3390/a2031031",
+    "institutions": {
+      "3": "Dipartimento di Informatica e Automazione, Universit\u00e0 di Roma Tre, Via della Vasca Navale 79, I-00146 Roma, Italy",
+      "1": "College of Computing, Georgia Institute of Technology, 801 Atlantic Drive, Atlanta, GA 30332, USA",
+      "4": "Istituto di Analisi dei Sistemi ed Informatica (IASI), CNR, Viale Manzoni 30, I-00185 Roma, Italy",
+      "2": "Dipartimento di Ingegneria dell\u2019Informazione, Universit\u00e0 di Padova, Via Gradenigo 6/A, I-35131 Padova, Italy"
+    }
+  },
+  {
+    "authors": {
+      "Yanbo Huang": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/3/973",
+    "title": "Advances in Artificial Neural Networks \u2013 Methodological Development and Application",
+    "date": " 3 August 2009",
+    "doi": "10.3390/algor2030973",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Robert D. Redgwell": [
+        "1"
+      ],
+      "Joseph M. Szewczak": [
+        "2"
+      ],
+      "Gareth Jones": [
+        "3"
+      ],
+      "Stuart Parsons": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/3/907",
+    "title": "Classification of Echolocation Calls from 14 Species of Bat by Support Vector Machines and Ensembles of Neural Networks",
+    "date": " 9 July 2009",
+    "doi": "10.3390/a2030907",
+    "institutions": {
+      "3": "School of Biological Sciences, University of Bristol, Woodland Road, Bristol BS8 1UG, UK",
+      "1": "School of Biological Sciences, University of Auckland, Private Bag 92019, Auckland, New Zealand",
+      "2": "Department of Biological Sciences, Humboldt State University, 1 Harpst St., Arcata, California 95521, USA"
+    }
+  },
+  {
+    "authors": {
+      "Bin Zheng": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/2/828",
+    "title": "Computer-Aided Diagnosis in Mammography Using Content-Based Image Retrieval Approaches: Current Status and Future Perspectives",
+    "date": " 4 June 2009",
+    "doi": "10.3390/a2020828",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Keqiang Hu": [],
+      "X. Frank Xu": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/2/750",
+    "title": "Probabilistic Upscaling of Material Failure Using Random Field Models \u2013 A Preliminary Investigation",
+    "date": " 30 April 2009",
+    "doi": "10.3390/a2020750",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Lichuan Gui": [],
+      "John M. Seiner": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/2/735",
+    "title": "Application of an Image Tracking Algorithm in Fire Ant Motion Experiment",
+    "date": " 30 April 2009",
+    "doi": "10.3390/a2020735",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Rongling Wu": [
+        "1",
+        " 3",
+        " 4"
+      ],
+      "Tian Liu": [
+        "1",
+        " 2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/2/667",
+    "title": "A Bayesian Algorithm for Functional Mapping of Dynamic Complex Traits",
+    "date": " 21 April 2009",
+    "doi": "10.3390/a2020667",
+    "institutions": {
+      "3": "Department of Public Health Sciences, Pennsylvania State College of Medicine, Hershey, PA 17033, USA",
+      "1": "Department of Statistics, University of Florida, Gainesville, FL 32611, USA",
+      "4": "Department of Statistics, Pennsylvania State University, University Park, PA 16802, USA",
+      "2": "Genome Institute of Singapore, 60 Biopolis Street 02-01 Genome, Singapore"
+    }
+  },
+  {
+    "authors": {
+      "Vladimir V. Tolstikov": [],
+      "Wei Zou": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/2/638",
+    "title": "Pattern Recognition and Pathway Analysis with Genetic Algorithms in Mass Spectrometry Based Metabolomics",
+    "date": " 3 April 2009",
+    "doi": "10.3390/a2020638",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Tung T. Nguyen": [
+        "1"
+      ],
+      "Ioannis P. Androulakis": [
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/1/582",
+    "title": "Recent Advances in the Computational Discovery of Transcription Factor Binding Sites",
+    "date": " 24 March 2009",
+    "doi": "10.3390/a2010582",
+    "institutions": {
+      "1": "BioMaPS Institute for Quantitative Biology, Rutgers University, New Jersey 08854, USA",
+      "2": "Biomedical Engineering Department, Rutgers University, New Jersey 08854, USA"
+    }
+  },
+  {
+    "authors": {
+      "Panos M. Pardalos": [
+        "1"
+      ],
+      "Vladimir Boginski": [
+        "2"
+      ],
+      "Stan Uryasev": [
+        "1"
+      ],
+      "Alexey Sorokin": [
+        "1"
+      ],
+      "Nikita Boyko": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/1/565",
+    "title": "Mathematical Programming Techniques for Sensor Networks",
+    "date": " 17 March 2009",
+    "doi": "10.3390/a2010565",
+    "institutions": {
+      "1": "Department of Industrial and Systems Engineering, University of Florida, Gainesville, FL 32611-6595, United States",
+      "2": "University of Florida Research and Engineering Education Facility (UF-REEF), Department of Industrial and Systems Engineering, 1350 N Poquito Road, Shalimar, FL 32579, United States"
+    }
+  },
+  {
+    "authors": {
+      "Lichuan Gui": [],
+      "John M. Seiner": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/1/533",
+    "title": "An Image Pattern Tracking Algorithm for Time-resolved Measurement of Mini- and Micro-scale Motion of Complex Object",
+    "date": " 12 March 2009",
+    "doi": "10.3390/a2010533",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "W. Kenneth Ward": [],
+      "Jessica Castle": [],
+      "Joseph El Youssef": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/1/518",
+    "title": "A Review of Closed-Loop Algorithms for Glycemic Control in the Treatment of Type 1 Diabetes",
+    "date": " 12 March 2009",
+    "doi": "10.3390/a2010518",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Anton A. Korosov": [
+        "1",
+        " 2"
+      ],
+      "Robert Shuchman": [
+        "4"
+      ],
+      "Are Folkestad": [
+        "3"
+      ],
+      "Kai S\u00f8rensen": [
+        "3"
+      ],
+      "Dmitry V. Pozdnyakov": [
+        "1",
+        " 2"
+      ],
+      "Lasse H. Pettersson": [
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/1/470",
+    "title": "Semi-empirical Algorithm for the Retrieval of Ecology-Relevant Water Constituents in Various Aquatic Environments",
+    "date": " 10 March 2009",
+    "doi": "10.3390/a2010470",
+    "institutions": {
+      "3": "Norwegian Institute for Water Research / Gaustadalleen 21Oslo, Norway",
+      "1": "Nansen International Environmental and Remote Sensing Centre / 14th line 7, St. Petersburg, Russia",
+      "4": "Michigan Tech Research Institute / 3600 Green Court, Suite 100, Ann Arbor, USA",
+      "2": "Nansen Environmental and Remote Sensing Centre / Thormohlensgt. 47, Bergen, Norway"
+    }
+  },
+  {
+    "authors": {
+      "Michael Hamada": [],
+      "Tom Burr": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/1/339",
+    "title": "Radio-Isotope Identification Algorithms for NaI \u03b3 Spectra",
+    "date": " 3 March 2009",
+    "doi": "10.3390/a2010339",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Ivan Bartoli": [
+        "2"
+      ],
+      "Alessandro Marzani": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/1/227",
+    "title": "High Frequency Waves Propagating in Octagonal Bars: a Low Cost Computation Algorithm",
+    "date": " 17 February 2009",
+    "doi": "10.3390/a2010227",
+    "institutions": {
+      "1": "Dipartimento di Ingegneria delle Strutture, dei Trasporti, delle Acque, del Rilevamento, del Territorio-DISTART, Universit\u00e0 degli Studi di Bologna, Viale Risorgimento 2, 40136 Bologna, Italy",
+      "2": "NDE &amp; Structural Health Monitoring Laboratory, Department of Structural Engineering, University of California, San Diego, 9500 Gilman Drive, La Jolla, CA 92093-0085, USA"
+    }
+  },
+  {
+    "authors": {
+      "Mihaly Mezei": [
+        "2"
+      ],
+      "Jason R. Banfelder": [
+        "1"
+      ],
+      "Joshua A. Speidel": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/1/215",
+    "title": "Automatic Determination of Stepsize Parameters in Monte Carlo Simulation Tested on a Bromodomain-Binding Octapeptide",
+    "date": " 10 February 2009",
+    "doi": "10.3390/a2010215",
+    "institutions": {
+      "1": "Department of Physiology and Biophysics and HRH Prince Alwaleed Bin Talal Bin Abdulaziz Alsaud Institute for Computational Biomedicine, Weill Cornell Medical College, New York, New York 10021, USA",
+      "2": "Department of Structural and Chemical Biology, Mount Sinai School of Medicine, NYU, New York, NY 10029, USA"
+    }
+  },
+  {
+    "authors": {
+      "Joshua S. Martin": [
+        "1"
+      ],
+      "Alain Laederach": [
+        "1",
+        " 2"
+      ],
+      "Katrina Simmons": [
+        "1"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/1/200",
+    "title": "Exhaustive Enumeration of Kinetic Model Topologies for the Analysis of Time-Resolved RNA Folding",
+    "date": " 10 February 2009",
+    "doi": "10.3390/a2010200",
+    "institutions": {
+      "1": "Computational and Structural Biology Department, Wadsworth Center, Albany, NY 12208, USA",
+      "2": "Biomedical Sciences Program, School of Public Health, SUNY, Albany, NY 12201, USA"
+    }
+  },
+  {
+    "authors": {
+      "Benjamin B. Spratling": [],
+      "Daniele Mortari": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/2/1/93",
+    "title": "A Survey on Star Identification Algorithms",
+    "date": " 29 January 2009",
+    "doi": "10.3390/a2010093",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Arjuna Balasuriya": [
+        "2"
+      ],
+      "Zhen Jia": [
+        "1"
+      ],
+      "Subhash Challa": [
+        "3"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/1/2/153",
+    "title": "Autonomous Vehicles Navigation with Visual Target Tracking: Technical Approaches",
+    "date": " 15 December 2008",
+    "doi": "10.3390/a1020153",
+    "institutions": {
+      "3": "Faculty of Engineering, University of Technology, Sydney, NSW, Australia",
+      "1": "United Technologies Research Center, No. 3239, Shenjiang Road, Shanghai 201206, P.R. China",
+      "2": "Department of Mechanical Engineering, Massachusetts Institute of Technology, MA, USA"
+    }
+  },
+  {
+    "authors": {
+      "Melinda G. Simon": [],
+      "Anthony D. Santamaria": [],
+      "Abhinav Bhushan": [],
+      "Cristina E. Davis": [],
+      "Weixiang Zhao": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/1/2/130",
+    "title": "Machine Learning: A Crucial Tool for Sensor Design",
+    "date": " 3 December 2008",
+    "doi": "10.3390/a1020130",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Gabriel B. Senay": []
+    },
+    "url": "http://www.mdpi.com/1999-4893/1/2/52",
+    "title": "Modeling Landscape Evapotranspiration by Integrating Land Surface Phenology and a Water Balance Algorithm",
+    "date": " 30 October 2008",
+    "doi": "10.3390/a1020052",
+    "institutions": {}
+  },
+  {
+    "authors": {
+      "Wolfgang Bein": [
+        "1"
+      ],
+      "Kazuo Iwama": [
+        "2"
+      ],
+      "Jun Kawahara": [
+        "2"
+      ]
+    },
+    "url": "http://www.mdpi.com/1999-4893/1/1/30",
+    "title": "Randomized Competitive Analysis for Two Server Problems",
+    "date": " 19 September 2008",
+    "doi": "10.3390/a1010030",
+    "institutions": {
+      "1": "Center for the Advanced Study of Algorithms, School of Computer Science, University of Nevada, Las Vegas, Nevada 89154, USA",
+      "2": "School of Informatics, Kyoto University, Kyoto 606-8501, Japan"
+    }
+  }
+]
